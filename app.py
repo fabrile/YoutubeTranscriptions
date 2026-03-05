@@ -12,6 +12,11 @@ app = Flask(__name__, static_folder="static")
 TRANSCRIPTS_DIR = os.path.join(os.path.dirname(__file__), "transcripts")
 os.makedirs(TRANSCRIPTS_DIR, exist_ok=True)
 
+# Proxy config (leído desde variables de entorno para no exponer credenciales)
+# Formato esperado: http://usuario:password@host:puerto
+PROXY_URL = os.environ.get("PROXY_URL", None)
+PROXIES = {"http": PROXY_URL, "https": PROXY_URL} if PROXY_URL else None
+
 
 def fetch_video_metadata(video_id: str) -> dict:
     """
@@ -67,7 +72,7 @@ def get_transcript():
 
     try:
         # Instantiate the API (required in v1.2+)
-        ytt_api = YouTubeTranscriptApi()
+        ytt_api = YouTubeTranscriptApi(proxies=PROXIES) if PROXIES else YouTubeTranscriptApi()
         transcript_list = ytt_api.list(video_id)
 
         transcript = None
