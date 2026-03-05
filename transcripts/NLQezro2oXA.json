@@ -1,0 +1,551 @@
+{
+  "video_id": "NLQezro2oXA",
+  "video_url": "https://www.youtube.com/watch?v=NLQezro2oXA",
+  "title": "1.4.0 - Types of Pen Plotter Artists | Drawing Machines 101",
+  "channel": "Dan Catt",
+  "channel_url": "https://www.youtube.com/@revdancatt",
+  "language": "en (auto-generado)",
+  "segments": [
+    {
+      "start": 0.64,
+      "duration": 5.52,
+      "text": "Do you think that that light flashing is"
+    },
+    {
+      "start": 3.919,
+      "duration": 3.681,
+      "text": "going to be annoying?"
+    },
+    {
+      "start": 6.16,
+      "duration": 3.439,
+      "text": "Otherwise, [music] we're going to be"
+    },
+    {
+      "start": 7.6,
+      "duration": 3.84,
+      "text": "setting up. We're going to set up here."
+    },
+    {
+      "start": 9.599,
+      "duration": 3.681,
+      "text": "So, it's another quick video before we"
+    },
+    {
+      "start": 11.44,
+      "duration": 3.76,
+      "text": "get on. And this one is the different"
+    },
+    {
+      "start": 13.28,
+      "duration": 4.16,
+      "text": "types of pen plotter artists, drawing"
+    },
+    {
+      "start": 15.2,
+      "duration": 4.079,
+      "text": "machine artists, and which one we are"
+    },
+    {
+      "start": 17.44,
+      "duration": 4.48,
+      "text": "and which one this course is designed"
+    },
+    {
+      "start": 19.279,
+      "duration": 6.321,
+      "text": "for. I've got some props. So, let's get"
+    },
+    {
+      "start": 21.92,
+      "duration": 3.68,
+      "text": "these out. [music]"
+    },
+    {
+      "start": 28.165,
+      "duration": 2.02,
+      "text": ">> [music]"
+    },
+    {
+      "start": 31.76,
+      "duration": 4.479,
+      "text": ">> Let's work backwards a little bit. Here"
+    },
+    {
+      "start": 33.76,
+      "duration": 4.72,
+      "text": "is our pen plotter, our drawing machine,"
+    },
+    {
+      "start": 36.239,
+      "duration": 5.441,
+      "text": "and we feed the drawing machine SVG"
+    },
+    {
+      "start": 38.48,
+      "duration": 5.52,
+      "text": "files. Really, under the hood, it gets"
+    },
+    {
+      "start": 41.68,
+      "duration": 3.84,
+      "text": "turned into G-code, and we don't really"
+    },
+    {
+      "start": 44.0,
+      "duration": 4.16,
+      "text": "have to worry about that. We could write"
+    },
+    {
+      "start": 45.52,
+      "duration": 5.519,
+      "text": "G-code, but what we're doing is we're"
+    },
+    {
+      "start": 48.16,
+      "duration": 6.8,
+      "text": "going to be writing SVG files to send to"
+    },
+    {
+      "start": 51.039,
+      "duration": 6.481,
+      "text": "the pen plotter. So first type of artist"
+    },
+    {
+      "start": 54.96,
+      "duration": 6.61,
+      "text": "over here is the type of artist who is a"
+    },
+    {
+      "start": 57.52,
+      "duration": 6.8,
+      "text": "designer and they use Adobe Illustrator"
+    },
+    {
+      "start": 61.57,
+      "duration": 5.31,
+      "text": "[music] and Adobe Illustrator"
+    },
+    {
+      "start": 64.32,
+      "duration": 5.52,
+      "text": "outputs an SVG file to go to the drawing"
+    },
+    {
+      "start": 66.88,
+      "duration": 6.239,
+      "text": "machine. So a designer"
+    },
+    {
+      "start": 69.84,
+      "duration": 5.84,
+      "text": "uses [music] software to make this file."
+    },
+    {
+      "start": 73.119,
+      "duration": 4.401,
+      "text": "The second type of artist,"
+    },
+    {
+      "start": 75.68,
+      "duration": 3.439,
+      "text": "you can tell they're artists [music] cuz"
+    },
+    {
+      "start": 77.52,
+      "duration": 5.36,
+      "text": "they're little berries just here."
+    },
+    {
+      "start": 79.119,
+      "duration": 6.081,
+      "text": "Anyway, the second artist is using a"
+    },
+    {
+      "start": 82.88,
+      "duration": 6.08,
+      "text": "laptop to write code [music] and then"
+    },
+    {
+      "start": 85.2,
+      "duration": 6.239,
+      "text": "that code creates the SVG that goes to"
+    },
+    {
+      "start": 88.96,
+      "duration": 4.08,
+      "text": "the drawing machine. And this is the"
+    },
+    {
+      "start": 91.439,
+      "duration": 4.961,
+      "text": "type of artist that this course is"
+    },
+    {
+      "start": 93.04,
+      "duration": 6.96,
+      "text": "designed for. Joining machines 101, US"
+    },
+    {
+      "start": 96.4,
+      "duration": 7.679,
+      "text": "code, SVG, join machine over here. The"
+    },
+    {
+      "start": 100.0,
+      "duration": 6.64,
+      "text": "third type of artist is an artist here"
+    },
+    {
+      "start": 104.079,
+      "duration": 5.761,
+      "text": "who uses"
+    },
+    {
+      "start": 106.64,
+      "duration": 5.439,
+      "text": "code to talk to the machine directly."
+    },
+    {
+      "start": 109.84,
+      "duration": 4.639,
+      "text": "They go from here to here. They skip the"
+    },
+    {
+      "start": 112.079,
+      "duration": 3.921,
+      "text": "SVG file."
+    },
+    {
+      "start": 114.479,
+      "duration": 2.767,
+      "text": "Thought I'd explain that one just a"
+    },
+    {
+      "start": 116.0,
+      "duration": 2.719,
+      "text": "little bit more. I kind of mean for"
+    },
+    {
+      "start": 117.246,
+      "duration": 3.314,
+      "text": "[music] interactive stuff. So if you had"
+    },
+    {
+      "start": 118.719,
+      "duration": 3.521,
+      "text": "a show where you had a webcam setup"
+    },
+    {
+      "start": 120.56,
+      "duration": 3.12,
+      "text": "connected to the laptop that then"
+    },
+    {
+      "start": 122.24,
+      "duration": 3.36,
+      "text": "controlled the pen plotter, that would"
+    },
+    {
+      "start": 123.68,
+      "duration": 4.48,
+      "text": "be one thing. [music] Maybe it responds"
+    },
+    {
+      "start": 125.6,
+      "duration": 4.639,
+      "text": "to the weather, the rain levels, any"
+    },
+    {
+      "start": 128.16,
+      "duration": 4.151,
+      "text": "live kind of data you want to plot. So,"
+    },
+    {
+      "start": 130.239,
+      "duration": 3.921,
+      "text": "as an example, I've got here running"
+    },
+    {
+      "start": 132.311,
+      "duration": 4.729,
+      "text": "[music] a tally thing where if you had a"
+    },
+    {
+      "start": 134.16,
+      "duration": 5.52,
+      "text": "big button when people came into a room,"
+    },
+    {
+      "start": 137.04,
+      "duration": 6.279,
+      "text": "as you [music] press the button,"
+    },
+    {
+      "start": 139.68,
+      "duration": 3.639,
+      "text": "it just sort of"
+    },
+    {
+      "start": 144.4,
+      "duration": 4.941,
+      "text": "controls the tally here"
+    },
+    {
+      "start": 147.84,
+      "duration": 4.8,
+      "text": "like, oh, actually, you know, four"
+    },
+    {
+      "start": 149.341,
+      "duration": 7.579,
+      "text": "[music] people have just walked in."
+    },
+    {
+      "start": 152.64,
+      "duration": 4.28,
+      "text": "Now nine people have walked in"
+    },
+    {
+      "start": 157.28,
+      "duration": 4.36,
+      "text": "and then [music] every time you"
+    },
+    {
+      "start": 162.441,
+      "duration": 2.02,
+      "text": "[music]"
+    },
+    {
+      "start": 166.8,
+      "duration": 5.12,
+      "text": "so that kind of thing where [music] this"
+    },
+    {
+      "start": 169.599,
+      "duration": 4.961,
+      "text": "is talking directly to that. Anyway,"
+    },
+    {
+      "start": 171.92,
+      "duration": 4.88,
+      "text": "back to the back to the video. So while"
+    },
+    {
+      "start": 174.56,
+      "duration": 4.24,
+      "text": "that third type of artist, the directly"
+    },
+    {
+      "start": 176.8,
+      "duration": 3.28,
+      "text": "talking to the machine interactive one"
+    },
+    {
+      "start": 178.8,
+      "duration": 3.439,
+      "text": "is [music] kind of cool. That's actually"
+    },
+    {
+      "start": 180.08,
+      "duration": 4.4,
+      "text": "an advanced topic. Once this drawing"
+    },
+    {
+      "start": 182.239,
+      "duration": 4.161,
+      "text": "machine 101 course is over, we may do"
+    },
+    {
+      "start": 184.48,
+      "duration": 3.759,
+      "text": "that as an advanced thing. But for the"
+    },
+    {
+      "start": 186.4,
+      "duration": 3.839,
+      "text": "moment, we're not doing that. And while"
+    },
+    {
+      "start": 188.239,
+      "duration": 4.0,
+      "text": "the Adobe Illustrator designer [music]"
+    },
+    {
+      "start": 190.239,
+      "duration": 4.321,
+      "text": "is really cool, like I said, we're"
+    },
+    {
+      "start": 192.239,
+      "duration": 4.401,
+      "text": "focusing on this middle one. But"
+    },
+    {
+      "start": 194.56,
+      "duration": 3.44,
+      "text": "something has happened since I started"
+    },
+    {
+      "start": 196.64,
+      "duration": 2.959,
+      "text": "thinking about this course and putting"
+    },
+    {
+      "start": 198.0,
+      "duration": 4.56,
+      "text": "it together and where [music] we are"
+    },
+    {
+      "start": 199.599,
+      "duration": 6.321,
+      "text": "now. And it's this. A new player has"
+    },
+    {
+      "start": 202.56,
+      "duration": 6.64,
+      "text": "entered the arena, which is coding with"
+    },
+    {
+      "start": 205.92,
+      "duration": 5.92,
+      "text": "AI. So now we have our artist writing"
+    },
+    {
+      "start": 209.2,
+      "duration": 4.72,
+      "text": "code with the help of AI to create an"
+    },
+    {
+      "start": 211.84,
+      "duration": 5.44,
+      "text": "SVG that goes to the drawing machine or"
+    },
+    {
+      "start": 213.92,
+      "duration": 5.679,
+      "text": "even we can skip that bit and just have"
+    },
+    {
+      "start": 217.28,
+      "duration": 4.64,
+      "text": "the artist"
+    },
+    {
+      "start": 219.599,
+      "duration": 4.881,
+      "text": "using AI to create the SVG [music]"
+    },
+    {
+      "start": 221.92,
+      "duration": 3.76,
+      "text": "directly that goes to the joint machine."
+    },
+    {
+      "start": 224.48,
+      "duration": 2.88,
+      "text": "This is really interesting and"
+    },
+    {
+      "start": 225.68,
+      "duration": 4.32,
+      "text": "fascinating and I suspect that people"
+    },
+    {
+      "start": 227.36,
+      "duration": 5.68,
+      "text": "doing this course will use AI in some"
+    },
+    {
+      "start": 230.0,
+      "duration": 5.28,
+      "text": "form. But AI is more useful when you"
+    },
+    {
+      "start": 233.04,
+      "duration": 4.32,
+      "text": "actually know what you can do. It's very"
+    },
+    {
+      "start": 235.28,
+      "duration": 4.08,
+      "text": "difficult to ask it to do things if you"
+    },
+    {
+      "start": 237.36,
+      "duration": 3.92,
+      "text": "don't know those things exist at all."
+    },
+    {
+      "start": 239.36,
+      "duration": 4.079,
+      "text": "So, what this whole course is about is"
+    },
+    {
+      "start": 241.28,
+      "duration": 3.84,
+      "text": "introducing you to several basic"
+    },
+    {
+      "start": 243.439,
+      "duration": 4.241,
+      "text": "building blocks that you can then"
+    },
+    {
+      "start": 245.12,
+      "duration": 4.08,
+      "text": "combine together to create these SVG"
+    },
+    {
+      "start": 247.68,
+      "duration": 4.24,
+      "text": "files, whether you're doing that"
+    },
+    {
+      "start": 249.2,
+      "duration": 4.64,
+      "text": "yourself or using AI to assist you. It's"
+    },
+    {
+      "start": 251.92,
+      "duration": 4.319,
+      "text": "just like some fundamentals that will"
+    },
+    {
+      "start": 253.84,
+      "duration": 3.679,
+      "text": "help. And speaking of the SVG, that's"
+    },
+    {
+      "start": 256.239,
+      "duration": 3.84,
+      "text": "what I'm going to be talking about in"
+    },
+    {
+      "start": 257.519,
+      "duration": 4.4,
+      "text": "the next video. And then we'll finally"
+    },
+    {
+      "start": 260.079,
+      "duration": 5.253,
+      "text": "get to code. All right, I'll see you in"
+    },
+    {
+      "start": 261.919,
+      "duration": 3.413,
+      "text": "the next one. Hey, hey, hey. [music]"
+    },
+    {
+      "start": 273.138,
+      "duration": 2.02,
+      "text": "[music]"
+    },
+    {
+      "start": 281.653,
+      "duration": 2.02,
+      "text": "[music]"
+    }
+  ],
+  "full_text": "Do you think that that light flashing is going to be annoying? Otherwise, [music] we're going to be setting up. We're going to set up here. So, it's another quick video before we get on. And this one is the different types of pen plotter artists, drawing machine artists, and which one we are and which one this course is designed for. I've got some props. So, let's get these out. [music] >> [music] >> Let's work backwards a little bit. Here is our pen plotter, our drawing machine, and we feed the drawing machine SVG files. Really, under the hood, it gets turned into G-code, and we don't really have to worry about that. We could write G-code, but what we're doing is we're going to be writing SVG files to send to the pen plotter. So first type of artist over here is the type of artist who is a designer and they use Adobe Illustrator [music] and Adobe Illustrator outputs an SVG file to go to the drawing machine. So a designer uses [music] software to make this file. The second type of artist, you can tell they're artists [music] cuz they're little berries just here. Anyway, the second artist is using a laptop to write code [music] and then that code creates the SVG that goes to the drawing machine. And this is the type of artist that this course is designed for. Joining machines 101, US code, SVG, join machine over here. The third type of artist is an artist here who uses code to talk to the machine directly. They go from here to here. They skip the SVG file. Thought I'd explain that one just a little bit more. I kind of mean for [music] interactive stuff. So if you had a show where you had a webcam setup connected to the laptop that then controlled the pen plotter, that would be one thing. [music] Maybe it responds to the weather, the rain levels, any live kind of data you want to plot. So, as an example, I've got here running [music] a tally thing where if you had a big button when people came into a room, as you [music] press the button, it just sort of controls the tally here like, oh, actually, you know, four [music] people have just walked in. Now nine people have walked in and then [music] every time you [music] so that kind of thing where [music] this is talking directly to that. Anyway, back to the back to the video. So while that third type of artist, the directly talking to the machine interactive one is [music] kind of cool. That's actually an advanced topic. Once this drawing machine 101 course is over, we may do that as an advanced thing. But for the moment, we're not doing that. And while the Adobe Illustrator designer [music] is really cool, like I said, we're focusing on this middle one. But something has happened since I started thinking about this course and putting it together and where [music] we are now. And it's this. A new player has entered the arena, which is coding with AI. So now we have our artist writing code with the help of AI to create an SVG that goes to the drawing machine or even we can skip that bit and just have the artist using AI to create the SVG [music] directly that goes to the joint machine. This is really interesting and fascinating and I suspect that people doing this course will use AI in some form. But AI is more useful when you actually know what you can do. It's very difficult to ask it to do things if you don't know those things exist at all. So, what this whole course is about is introducing you to several basic building blocks that you can then combine together to create these SVG files, whether you're doing that yourself or using AI to assist you. It's just like some fundamentals that will help. And speaking of the SVG, that's what I'm going to be talking about in the next video. And then we'll finally get to code. All right, I'll see you in the next one. Hey, hey, hey. [music] [music] [music]"
+}

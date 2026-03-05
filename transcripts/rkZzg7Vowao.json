@@ -1,0 +1,823 @@
+{
+  "video_id": "rkZzg7Vowao",
+  "video_url": "https://www.youtube.com/watch?v=rkZzg7Vowao",
+  "language": "en (auto-generado)",
+  "segments": [
+    {
+      "start": 3.679,
+      "duration": 4.561,
+      "text": "my name is lesie Lamport and I am a"
+    },
+    {
+      "start": 6.96,
+      "duration": 4.0,
+      "text": "computer"
+    },
+    {
+      "start": 8.24,
+      "duration": 5.2,
+      "text": "scientist uh which is something that"
+    },
+    {
+      "start": 10.96,
+      "duration": 4.639,
+      "text": "didn't really exist when I started being"
+    },
+    {
+      "start": 13.44,
+      "duration": 5.08,
+      "text": "a computer scientist and it took me a"
+    },
+    {
+      "start": 15.599,
+      "duration": 5.84,
+      "text": "while to figure out that I was one my"
+    },
+    {
+      "start": 18.52,
+      "duration": 5.32,
+      "text": "relationship with computers began as a"
+    },
+    {
+      "start": 21.439,
+      "duration": 4.881,
+      "text": "programmer it never quite occurred to me"
+    },
+    {
+      "start": 23.84,
+      "duration": 4.64,
+      "text": "that I was doing anything scientific"
+    },
+    {
+      "start": 26.32,
+      "duration": 5.759,
+      "text": "until after I had published enough"
+    },
+    {
+      "start": 28.48,
+      "duration": 5.96,
+      "text": "papers that if finally occurred to me my"
+    },
+    {
+      "start": 32.079,
+      "duration": 5.241,
+      "text": "education was as a mathematician it was"
+    },
+    {
+      "start": 34.44,
+      "duration": 4.599,
+      "text": "just natural for me to think about"
+    },
+    {
+      "start": 37.32,
+      "duration": 3.84,
+      "text": "computers as a"
+    },
+    {
+      "start": 39.039,
+      "duration": 5.081,
+      "text": "mathematician when you write an"
+    },
+    {
+      "start": 41.16,
+      "duration": 5.399,
+      "text": "algorithm you need to have a proof that"
+    },
+    {
+      "start": 44.12,
+      "duration": 6.24,
+      "text": "it's correct an algorithm without a"
+    },
+    {
+      "start": 46.559,
+      "duration": 7.281,
+      "text": "proof is a conjecture it's not a"
+    },
+    {
+      "start": 50.36,
+      "duration": 5.359,
+      "text": "theorem and if you're proving things"
+    },
+    {
+      "start": 53.84,
+      "duration": 4.719,
+      "text": "well that means"
+    },
+    {
+      "start": 55.719,
+      "duration": 5.48,
+      "text": "mathematics computer scientists tend to"
+    },
+    {
+      "start": 58.559,
+      "duration": 5.92,
+      "text": "think in terms of programming languages"
+    },
+    {
+      "start": 61.199,
+      "duration": 5.801,
+      "text": "one of the epiphanies in my career was"
+    },
+    {
+      "start": 64.479,
+      "duration": 4.921,
+      "text": "the realization that I was not writing"
+    },
+    {
+      "start": 67.0,
+      "duration": 5.32,
+      "text": "programs as a computer scientist I was"
+    },
+    {
+      "start": 69.4,
+      "duration": 5.28,
+      "text": "designing algorithms I came to realize"
+    },
+    {
+      "start": 72.32,
+      "duration": 4.36,
+      "text": "that if I'm not writing a program I"
+    },
+    {
+      "start": 74.68,
+      "duration": 5.32,
+      "text": "shouldn't use a programming"
+    },
+    {
+      "start": 76.68,
+      "duration": 6.68,
+      "text": "language people confuse programming with"
+    },
+    {
+      "start": 80.0,
+      "duration": 5.64,
+      "text": "coding coding is to programming what"
+    },
+    {
+      "start": 83.36,
+      "duration": 4.28,
+      "text": "typing is to writing writing is"
+    },
+    {
+      "start": 85.64,
+      "duration": 3.439,
+      "text": "something that involves mental effort"
+    },
+    {
+      "start": 87.64,
+      "duration": 3.799,
+      "text": "you're thinking about what you're going"
+    },
+    {
+      "start": 89.079,
+      "duration": 4.36,
+      "text": "to say the words have some importance"
+    },
+    {
+      "start": 91.439,
+      "duration": 5.761,
+      "text": "but in some sense that even they are"
+    },
+    {
+      "start": 93.439,
+      "duration": 6.72,
+      "text": "secondary to the ideas in the same way"
+    },
+    {
+      "start": 97.2,
+      "duration": 4.68,
+      "text": "programs are built on ideas they have to"
+    },
+    {
+      "start": 100.159,
+      "duration": 4.64,
+      "text": "do something and what they're supposed"
+    },
+    {
+      "start": 101.88,
+      "duration": 5.96,
+      "text": "to do I mean is like what writing is"
+    },
+    {
+      "start": 104.799,
+      "duration": 5.561,
+      "text": "supposed to convey if people are trying"
+    },
+    {
+      "start": 107.84,
+      "duration": 5.72,
+      "text": "to learn programming by being taught to"
+    },
+    {
+      "start": 110.36,
+      "duration": 5.679,
+      "text": "code well they're being taught writing"
+    },
+    {
+      "start": 113.56,
+      "duration": 4.68,
+      "text": "by being taught how to type and that"
+    },
+    {
+      "start": 116.039,
+      "duration": 5.241,
+      "text": "doesn't make much"
+    },
+    {
+      "start": 118.24,
+      "duration": 5.479,
+      "text": "sense the best way way I have for"
+    },
+    {
+      "start": 121.28,
+      "duration": 4.64,
+      "text": "teaching about programming as distinct"
+    },
+    {
+      "start": 123.719,
+      "duration": 5.04,
+      "text": "from coding is to think about what the"
+    },
+    {
+      "start": 125.92,
+      "duration": 5.119,
+      "text": "program is supposed to do mathematically"
+    },
+    {
+      "start": 128.759,
+      "duration": 5.361,
+      "text": "there's a very big practical problem"
+    },
+    {
+      "start": 131.039,
+      "duration": 5.361,
+      "text": "with this the mathematical education in"
+    },
+    {
+      "start": 134.12,
+      "duration": 4.28,
+      "text": "this country is pretty terrible most"
+    },
+    {
+      "start": 136.4,
+      "duration": 4.76,
+      "text": "people wind up being afraid of"
+    },
+    {
+      "start": 138.4,
+      "duration": 5.24,
+      "text": "mathematics this is even senior"
+    },
+    {
+      "start": 141.16,
+      "duration": 6.359,
+      "text": "programmers I've developed a language"
+    },
+    {
+      "start": 143.64,
+      "duration": 6.4,
+      "text": "called t+ for writing down the ideas"
+    },
+    {
+      "start": 147.519,
+      "duration": 4.481,
+      "text": "that go into the program before before"
+    },
+    {
+      "start": 150.04,
+      "duration": 5.08,
+      "text": "you do any coding it's a pretty hard"
+    },
+    {
+      "start": 152.0,
+      "duration": 6.0,
+      "text": "thing for engineers to get into but when"
+    },
+    {
+      "start": 155.12,
+      "duration": 5.199,
+      "text": "they do it develops their ability to"
+    },
+    {
+      "start": 158.0,
+      "duration": 2.319,
+      "text": "think"
+    },
+    {
+      "start": 170.879,
+      "duration": 6.921,
+      "text": "mathematically a distributed system is"
+    },
+    {
+      "start": 173.68,
+      "duration": 7.919,
+      "text": "one in which your computer can be"
+    },
+    {
+      "start": 177.8,
+      "duration": 5.64,
+      "text": "rendered useless by the failure of a"
+    },
+    {
+      "start": 181.599,
+      "duration": 4.841,
+      "text": "computer that you didn't even know"
+    },
+    {
+      "start": 183.44,
+      "duration": 6.079,
+      "text": "existed non-distributed Computing is"
+    },
+    {
+      "start": 186.44,
+      "duration": 5.92,
+      "text": "when different processes communicate by"
+    },
+    {
+      "start": 189.519,
+      "duration": 5.28,
+      "text": "using the same memory and distributed"
+    },
+    {
+      "start": 192.36,
+      "duration": 4.2,
+      "text": "computing means that they're"
+    },
+    {
+      "start": 194.799,
+      "duration": 5.321,
+      "text": "communicating with one another by"
+    },
+    {
+      "start": 196.56,
+      "duration": 6.56,
+      "text": "sending messages now my interest in"
+    },
+    {
+      "start": 200.12,
+      "duration": 6.24,
+      "text": "distributed systems came about by"
+    },
+    {
+      "start": 203.12,
+      "duration": 6.679,
+      "text": "Serendipity I received a pre-print of a"
+    },
+    {
+      "start": 206.36,
+      "duration": 5.519,
+      "text": "paper by Robert Thomas and Paul Johnson"
+    },
+    {
+      "start": 209.799,
+      "duration": 4.16,
+      "text": "who had an algorithm for implementing"
+    },
+    {
+      "start": 211.879,
+      "duration": 4.481,
+      "text": "distributed databases these are"
+    },
+    {
+      "start": 213.959,
+      "duration": 4.64,
+      "text": "databases where you could have multiple"
+    },
+    {
+      "start": 216.36,
+      "duration": 4.64,
+      "text": "copies of the data sitting at different"
+    },
+    {
+      "start": 218.599,
+      "duration": 4.681,
+      "text": "computers so that programs on each"
+    },
+    {
+      "start": 221.0,
+      "duration": 6.04,
+      "text": "computer could have rapid access to the"
+    },
+    {
+      "start": 223.28,
+      "duration": 6.92,
+      "text": "data but they had to be synchronized so"
+    },
+    {
+      "start": 227.04,
+      "duration": 6.199,
+      "text": "that processes on all the computers got"
+    },
+    {
+      "start": 230.2,
+      "duration": 5.599,
+      "text": "consistent views of what the data was I"
+    },
+    {
+      "start": 233.239,
+      "duration": 4.56,
+      "text": "happened to have become quite familiar"
+    },
+    {
+      "start": 235.799,
+      "duration": 4.08,
+      "text": "with special relativity one of the"
+    },
+    {
+      "start": 237.799,
+      "duration": 5.481,
+      "text": "things that special relativity teachers"
+    },
+    {
+      "start": 239.879,
+      "duration": 6.041,
+      "text": "you is that two different observers have"
+    },
+    {
+      "start": 243.28,
+      "duration": 5.879,
+      "text": "different Notions of what at the same"
+    },
+    {
+      "start": 245.92,
+      "duration": 5.959,
+      "text": "time means but there's one notion that"
+    },
+    {
+      "start": 249.159,
+      "duration": 5.601,
+      "text": "is invariant there's a certain notion of"
+    },
+    {
+      "start": 251.879,
+      "duration": 6.281,
+      "text": "one event happening before another event"
+    },
+    {
+      "start": 254.76,
+      "duration": 6.52,
+      "text": "and that means that it's possible for"
+    },
+    {
+      "start": 258.16,
+      "duration": 6.599,
+      "text": "information to be transmitted from one"
+    },
+    {
+      "start": 261.28,
+      "duration": 5.44,
+      "text": "event to the other when the information"
+    },
+    {
+      "start": 264.759,
+      "duration": 5.401,
+      "text": "cannot travel faster than the speed of"
+    },
+    {
+      "start": 266.72,
+      "duration": 7.039,
+      "text": "light I realized that that that notion"
+    },
+    {
+      "start": 270.16,
+      "duration": 6.56,
+      "text": "of causality was violated by the"
+    },
+    {
+      "start": 273.759,
+      "duration": 5.481,
+      "text": "algorithm of Thomas and Johnson it's"
+    },
+    {
+      "start": 276.72,
+      "duration": 5.56,
+      "text": "completely analogous to the relation and"
+    },
+    {
+      "start": 279.24,
+      "duration": 6.08,
+      "text": "special relativity so what I did is I"
+    },
+    {
+      "start": 282.28,
+      "duration": 7.0,
+      "text": "wrote a paper that explained this notion"
+    },
+    {
+      "start": 285.32,
+      "duration": 7.84,
+      "text": "of causality one could solve any"
+    },
+    {
+      "start": 289.28,
+      "duration": 6.88,
+      "text": "distributed system Problem by building"
+    },
+    {
+      "start": 293.16,
+      "duration": 5.44,
+      "text": "what I called a state machine think of"
+    },
+    {
+      "start": 296.16,
+      "duration": 5.96,
+      "text": "it as an abstract computer that does one"
+    },
+    {
+      "start": 298.6,
+      "duration": 6.879,
+      "text": "thing at a time you make sure that all"
+    },
+    {
+      "start": 302.12,
+      "duration": 7.6,
+      "text": "the computers in this distributed system"
+    },
+    {
+      "start": 305.479,
+      "duration": 8.361,
+      "text": "cooperate to implement a single state"
+    },
+    {
+      "start": 309.72,
+      "duration": 7.319,
+      "text": "machine and that idea has become you"
+    },
+    {
+      "start": 313.84,
+      "duration": 6.52,
+      "text": "know fundamental in the way people think"
+    },
+    {
+      "start": 317.039,
+      "duration": 5.081,
+      "text": "about building distributed systems I had"
+    },
+    {
+      "start": 320.36,
+      "duration": 4.48,
+      "text": "never even thought about a distributed"
+    },
+    {
+      "start": 322.12,
+      "duration": 6.44,
+      "text": "system before I wrote that"
+    },
+    {
+      "start": 324.84,
+      "duration": 5.479,
+      "text": "paper as I progressed in my career I"
+    },
+    {
+      "start": 328.56,
+      "duration": 3.96,
+      "text": "came to appreciate of the idea of"
+    },
+    {
+      "start": 330.319,
+      "duration": 4.0,
+      "text": "working in Industry that's where most of"
+    },
+    {
+      "start": 332.52,
+      "duration": 4.36,
+      "text": "the interesting problems that I found"
+    },
+    {
+      "start": 334.319,
+      "duration": 5.521,
+      "text": "came from you know from Engineers having"
+    },
+    {
+      "start": 336.88,
+      "duration": 5.64,
+      "text": "a problem to solve it reminds me"
+    },
+    {
+      "start": 339.84,
+      "duration": 5.84,
+      "text": "actually of something that August Renoir"
+    },
+    {
+      "start": 342.52,
+      "duration": 5.48,
+      "text": "once said if someone asked him why he"
+    },
+    {
+      "start": 345.68,
+      "duration": 4.639,
+      "text": "painted outside rather than in his"
+    },
+    {
+      "start": 348.0,
+      "duration": 4.08,
+      "text": "studio and what he said is if I were"
+    },
+    {
+      "start": 350.319,
+      "duration": 3.561,
+      "text": "painting in the studio and I wanted to"
+    },
+    {
+      "start": 352.08,
+      "duration": 3.839,
+      "text": "paint a leaf I would be able to you know"
+    },
+    {
+      "start": 353.88,
+      "duration": 3.4,
+      "text": "think of only a half dozen or so"
+    },
+    {
+      "start": 355.919,
+      "duration": 4.441,
+      "text": "different kinds of leaves that I could"
+    },
+    {
+      "start": 357.28,
+      "duration": 4.96,
+      "text": "paint but when I was painting Outdoors"
+    },
+    {
+      "start": 360.36,
+      "duration": 3.839,
+      "text": "there were just these millions of"
+    },
+    {
+      "start": 362.24,
+      "duration": 3.64,
+      "text": "different kinds of leaves that were"
+    },
+    {
+      "start": 364.199,
+      "duration": 5.12,
+      "text": "there that I could paint"
+    },
+    {
+      "start": 365.88,
+      "duration": 6.159,
+      "text": "from I found my research the same way"
+    },
+    {
+      "start": 369.319,
+      "duration": 4.761,
+      "text": "that if I sat down you know and just you"
+    },
+    {
+      "start": 372.039,
+      "duration": 3.361,
+      "text": "know contemplated my Naval and think"
+    },
+    {
+      "start": 374.08,
+      "duration": 2.92,
+      "text": "about problems you know there was this"
+    },
+    {
+      "start": 375.4,
+      "duration": 4.04,
+      "text": "small number of problems that I could"
+    },
+    {
+      "start": 377.0,
+      "duration": 4.599,
+      "text": "think of but there were just scars of"
+    },
+    {
+      "start": 379.44,
+      "duration": 5.4,
+      "text": "them sitting out in Industry waiting to"
+    },
+    {
+      "start": 381.599,
+      "duration": 6.04,
+      "text": "be to be solved my favorite of my"
+    },
+    {
+      "start": 384.84,
+      "duration": 4.799,
+      "text": "algorithms is the bakery algorithm it's"
+    },
+    {
+      "start": 387.639,
+      "duration": 4.081,
+      "text": "to solve the mutual exclusion problem"
+    },
+    {
+      "start": 389.639,
+      "duration": 4.521,
+      "text": "that is keep two processes from using"
+    },
+    {
+      "start": 391.72,
+      "duration": 4.96,
+      "text": "the printer at the same time processes"
+    },
+    {
+      "start": 394.16,
+      "duration": 5.08,
+      "text": "choose a number based on the numbers"
+    },
+    {
+      "start": 396.68,
+      "duration": 5.16,
+      "text": "that have been chosen by other processes"
+    },
+    {
+      "start": 399.24,
+      "duration": 4.399,
+      "text": "and use an algorithm so that the lowest"
+    },
+    {
+      "start": 401.84,
+      "duration": 5.56,
+      "text": "is allowed to use the printer but what"
+    },
+    {
+      "start": 403.639,
+      "duration": 6.441,
+      "text": "is amazing about it is it does not make"
+    },
+    {
+      "start": 407.4,
+      "duration": 5.359,
+      "text": "an assumption that almost every other"
+    },
+    {
+      "start": 410.08,
+      "duration": 5.88,
+      "text": "algorithm makes the Assumption being"
+    },
+    {
+      "start": 412.759,
+      "duration": 6.88,
+      "text": "that if say I'm changing my number from"
+    },
+    {
+      "start": 415.96,
+      "duration": 6.6,
+      "text": "47 to 100 and you read that number"
+    },
+    {
+      "start": 419.639,
+      "duration": 4.921,
+      "text": "you'll either get 47 or 100 but that"
+    },
+    {
+      "start": 422.56,
+      "duration": 5.8,
+      "text": "algorithm works even if instead of"
+    },
+    {
+      "start": 424.56,
+      "duration": 6.44,
+      "text": "getting 47 or 100 you maybe got 4700 or"
+    },
+    {
+      "start": 428.36,
+      "duration": 6.16,
+      "text": "maybe you got"
+    },
+    {
+      "start": 431.0,
+      "duration": 5.16,
+      "text": "99,999 the algorithm still works I"
+    },
+    {
+      "start": 434.52,
+      "duration": 3.76,
+      "text": "didn't intend it to I mean I didn't"
+    },
+    {
+      "start": 436.16,
+      "duration": 4.599,
+      "text": "intend that I just discovered that when"
+    },
+    {
+      "start": 438.28,
+      "duration": 5.12,
+      "text": "I wrote a proof I never needed to make"
+    },
+    {
+      "start": 440.759,
+      "duration": 7.401,
+      "text": "the assumption that is just so"
+    },
+    {
+      "start": 443.4,
+      "duration": 10.02,
+      "text": "beautiful uh and you know I'm really"
+    },
+    {
+      "start": 448.16,
+      "duration": 19.27,
+      "text": "proud that that that I uh stumbled on it"
+    },
+    {
+      "start": 453.42,
+      "duration": 14.01,
+      "text": "[Music]"
+    }
+  ],
+  "full_text": "my name is lesie Lamport and I am a computer scientist uh which is something that didn't really exist when I started being a computer scientist and it took me a while to figure out that I was one my relationship with computers began as a programmer it never quite occurred to me that I was doing anything scientific until after I had published enough papers that if finally occurred to me my education was as a mathematician it was just natural for me to think about computers as a mathematician when you write an algorithm you need to have a proof that it's correct an algorithm without a proof is a conjecture it's not a theorem and if you're proving things well that means mathematics computer scientists tend to think in terms of programming languages one of the epiphanies in my career was the realization that I was not writing programs as a computer scientist I was designing algorithms I came to realize that if I'm not writing a program I shouldn't use a programming language people confuse programming with coding coding is to programming what typing is to writing writing is something that involves mental effort you're thinking about what you're going to say the words have some importance but in some sense that even they are secondary to the ideas in the same way programs are built on ideas they have to do something and what they're supposed to do I mean is like what writing is supposed to convey if people are trying to learn programming by being taught to code well they're being taught writing by being taught how to type and that doesn't make much sense the best way way I have for teaching about programming as distinct from coding is to think about what the program is supposed to do mathematically there's a very big practical problem with this the mathematical education in this country is pretty terrible most people wind up being afraid of mathematics this is even senior programmers I've developed a language called t+ for writing down the ideas that go into the program before before you do any coding it's a pretty hard thing for engineers to get into but when they do it develops their ability to think mathematically a distributed system is one in which your computer can be rendered useless by the failure of a computer that you didn't even know existed non-distributed Computing is when different processes communicate by using the same memory and distributed computing means that they're communicating with one another by sending messages now my interest in distributed systems came about by Serendipity I received a pre-print of a paper by Robert Thomas and Paul Johnson who had an algorithm for implementing distributed databases these are databases where you could have multiple copies of the data sitting at different computers so that programs on each computer could have rapid access to the data but they had to be synchronized so that processes on all the computers got consistent views of what the data was I happened to have become quite familiar with special relativity one of the things that special relativity teachers you is that two different observers have different Notions of what at the same time means but there's one notion that is invariant there's a certain notion of one event happening before another event and that means that it's possible for information to be transmitted from one event to the other when the information cannot travel faster than the speed of light I realized that that that notion of causality was violated by the algorithm of Thomas and Johnson it's completely analogous to the relation and special relativity so what I did is I wrote a paper that explained this notion of causality one could solve any distributed system Problem by building what I called a state machine think of it as an abstract computer that does one thing at a time you make sure that all the computers in this distributed system cooperate to implement a single state machine and that idea has become you know fundamental in the way people think about building distributed systems I had never even thought about a distributed system before I wrote that paper as I progressed in my career I came to appreciate of the idea of working in Industry that's where most of the interesting problems that I found came from you know from Engineers having a problem to solve it reminds me actually of something that August Renoir once said if someone asked him why he painted outside rather than in his studio and what he said is if I were painting in the studio and I wanted to paint a leaf I would be able to you know think of only a half dozen or so different kinds of leaves that I could paint but when I was painting Outdoors there were just these millions of different kinds of leaves that were there that I could paint from I found my research the same way that if I sat down you know and just you know contemplated my Naval and think about problems you know there was this small number of problems that I could think of but there were just scars of them sitting out in Industry waiting to be to be solved my favorite of my algorithms is the bakery algorithm it's to solve the mutual exclusion problem that is keep two processes from using the printer at the same time processes choose a number based on the numbers that have been chosen by other processes and use an algorithm so that the lowest is allowed to use the printer but what is amazing about it is it does not make an assumption that almost every other algorithm makes the Assumption being that if say I'm changing my number from 47 to 100 and you read that number you'll either get 47 or 100 but that algorithm works even if instead of getting 47 or 100 you maybe got 4700 or maybe you got 99,999 the algorithm still works I didn't intend it to I mean I didn't intend that I just discovered that when I wrote a proof I never needed to make the assumption that is just so beautiful uh and you know I'm really proud that that that I uh stumbled on it [Music]"
+}

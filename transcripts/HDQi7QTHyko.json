@@ -1,0 +1,586 @@
+{
+  "video_id": "HDQi7QTHyko",
+  "video_url": "https://www.youtube.com/watch?v=HDQi7QTHyko",
+  "title": "1.3.1 - Anatomy of a piece of paper | Drawing Machines 101",
+  "channel": "Dan Catt",
+  "channel_url": "https://www.youtube.com/@revdancatt",
+  "language": "en (auto-generado)",
+  "segments": [
+    {
+      "start": 0.32,
+      "duration": 3.76,
+      "text": "Well, hi. It's good to see you again."
+    },
+    {
+      "start": 2.0,
+      "duration": 4.24,
+      "text": "I'm just making my way into the studio"
+    },
+    {
+      "start": 4.08,
+      "duration": 5.04,
+      "text": "for what's going to be a very short"
+    },
+    {
+      "start": 6.24,
+      "duration": 7.56,
+      "text": "quick video, which is basically about"
+    },
+    {
+      "start": 9.12,
+      "duration": 4.68,
+      "text": "the anatomy of a piece of paper."
+    },
+    {
+      "start": 15.679,
+      "duration": 4.721,
+      "text": "It's very windy and cold out here, so"
+    },
+    {
+      "start": 18.32,
+      "duration": 4.08,
+      "text": "let's get in."
+    },
+    {
+      "start": 20.4,
+      "duration": 4.0,
+      "text": "So, a lot of us are used to dealing with"
+    },
+    {
+      "start": 22.4,
+      "duration": 4.0,
+      "text": "screen resolutions and pixels and"
+    },
+    {
+      "start": 24.4,
+      "duration": 3.44,
+      "text": "canvases and and digital stuff, things"
+    },
+    {
+      "start": 26.4,
+      "duration": 3.52,
+      "text": "like that. It's really dark, isn't it?"
+    },
+    {
+      "start": 27.84,
+      "duration": 3.359,
+      "text": "Hold on."
+    },
+    {
+      "start": 29.92,
+      "duration": 2.96,
+      "text": "All right, then. That's a little bit"
+    },
+    {
+      "start": 31.199,
+      "duration": 3.281,
+      "text": "better. So, we're going to be artists"
+    },
+    {
+      "start": 32.88,
+      "duration": 3.44,
+      "text": "who are dealing with sheets of paper"
+    },
+    {
+      "start": 34.48,
+      "duration": 3.28,
+      "text": "that have physical dimensions. I know"
+    },
+    {
+      "start": 36.32,
+      "duration": 8.0,
+      "text": "it's obvious, but let's just get this"
+    },
+    {
+      "start": 37.76,
+      "duration": 8.639,
+      "text": "measured. This is 420 ms by 297 mm."
+    },
+    {
+      "start": 44.32,
+      "duration": 7.919,
+      "text": "That's an A3 sheet of paper. We got this"
+    },
+    {
+      "start": 46.399,
+      "duration": 8.721,
+      "text": "huge sheet here, which is 760 mm by"
+    },
+    {
+      "start": 52.239,
+      "duration": 5.121,
+      "text": "what's that? 568"
+    },
+    {
+      "start": 55.12,
+      "duration": 4.48,
+      "text": "mm. You have all these different sizes."
+    },
+    {
+      "start": 57.36,
+      "duration": 4.48,
+      "text": "We're mainly going to be using A4. You"
+    },
+    {
+      "start": 59.6,
+      "duration": 3.68,
+      "text": "might be using other sizes, legal, it it"
+    },
+    {
+      "start": 61.84,
+      "duration": 6.16,
+      "text": "doesn't really matter, but I'm going to"
+    },
+    {
+      "start": 63.28,
+      "duration": 6.48,
+      "text": "be using this. It's 210 mm by 297 mm."
+    },
+    {
+      "start": 68.0,
+      "duration": 3.28,
+      "text": "And if I'm doing a pen plot, I want to"
+    },
+    {
+      "start": 69.76,
+      "duration": 6.16,
+      "text": "kind of avoid the edges. I want some"
+    },
+    {
+      "start": 71.28,
+      "duration": 8.159,
+      "text": "margins. So, let's say we use a 25 mm by"
+    },
+    {
+      "start": 75.92,
+      "duration": 5.519,
+      "text": "25 mm margin. So, 25 here, 25 here and"
+    },
+    {
+      "start": 79.439,
+      "duration": 3.281,
+      "text": "here. I actually normally prefer a"
+    },
+    {
+      "start": 81.439,
+      "duration": 6.081,
+      "text": "little bit more down at the bottom. So,"
+    },
+    {
+      "start": 82.72,
+      "duration": 8.48,
+      "text": "25 25 30 maybe. Regardless, that means"
+    },
+    {
+      "start": 87.52,
+      "duration": 8.959,
+      "text": "that with a little bit of maths, this is"
+    },
+    {
+      "start": 91.2,
+      "duration": 9.44,
+      "text": "160 mm of drawing area."
+    },
+    {
+      "start": 96.479,
+      "duration": 7.441,
+      "text": "And down here is going to be 247"
+    },
+    {
+      "start": 100.64,
+      "duration": 5.04,
+      "text": "mm of drawing area."
+    },
+    {
+      "start": 103.92,
+      "duration": 3.839,
+      "text": "So, that's what we get to draw in. And"
+    },
+    {
+      "start": 105.68,
+      "duration": 4.56,
+      "text": "now we can kind of talk about resolution"
+    },
+    {
+      "start": 107.759,
+      "duration": 5.281,
+      "text": "a little bit. So, here I have a pen."
+    },
+    {
+      "start": 110.24,
+      "duration": 6.239,
+      "text": "Hey, cute. It says, \"Hug me.\" And it's a"
+    },
+    {
+      "start": 113.04,
+      "duration": 6.32,
+      "text": "0.5 mm nib, which means that if we"
+    },
+    {
+      "start": 116.479,
+      "duration": 7.28,
+      "text": "wanted to draw and fill in this area all"
+    },
+    {
+      "start": 119.36,
+      "duration": 8.079,
+      "text": "the way across here, 160 mm, 0.5 nib, I"
+    },
+    {
+      "start": 123.759,
+      "duration": 5.92,
+      "text": "would need to draw 320 lines"
+    },
+    {
+      "start": 127.439,
+      "duration": 3.52,
+      "text": "across this page to fill this in. And"
+    },
+    {
+      "start": 129.679,
+      "duration": 3.521,
+      "text": "that's kind of what I mean by"
+    },
+    {
+      "start": 130.959,
+      "duration": 4.161,
+      "text": "resolution. Maybe this is a better way"
+    },
+    {
+      "start": 133.2,
+      "duration": 4.08,
+      "text": "of explaining it. When we're thinking"
+    },
+    {
+      "start": 135.12,
+      "duration": 3.68,
+      "text": "about designing stuff for pen plotting,"
+    },
+    {
+      "start": 137.28,
+      "duration": 4.24,
+      "text": "we're thinking about a combination"
+    },
+    {
+      "start": 138.8,
+      "duration": 5.04,
+      "text": "between nib size and paper size. That's"
+    },
+    {
+      "start": 141.52,
+      "duration": 3.68,
+      "text": "kind of our resolution. So, if we have"
+    },
+    {
+      "start": 143.84,
+      "duration": 3.84,
+      "text": "this is a failed plot, but we've got"
+    },
+    {
+      "start": 145.2,
+      "duration": 4.8,
+      "text": "this postcard size thing here. But if we"
+    },
+    {
+      "start": 147.68,
+      "duration": 4.639,
+      "text": "use the same pen on this like tiny piece"
+    },
+    {
+      "start": 150.0,
+      "duration": 4.16,
+      "text": "of paper like this, then it'll just look"
+    },
+    {
+      "start": 152.319,
+      "duration": 6.321,
+      "text": "like a a solid black mess. But if we use"
+    },
+    {
+      "start": 154.16,
+      "duration": 6.96,
+      "text": "this same pen or a 0.5 mm on this sheet"
+    },
+    {
+      "start": 158.64,
+      "duration": 4.8,
+      "text": "of paper here, then you'll just have"
+    },
+    {
+      "start": 161.12,
+      "duration": 4.64,
+      "text": "very few lines that are very thin and"
+    },
+    {
+      "start": 163.44,
+      "duration": 4.4,
+      "text": "very far apart. So, all of this is to"
+    },
+    {
+      "start": 165.76,
+      "duration": 4.4,
+      "text": "say that we're going to be thinking in"
+    },
+    {
+      "start": 167.84,
+      "duration": 3.44,
+      "text": "terms of millimeters and dimensions."
+    },
+    {
+      "start": 170.16,
+      "duration": 3.2,
+      "text": "We're not going to be thinking about"
+    },
+    {
+      "start": 171.28,
+      "duration": 4.959,
+      "text": "pixels and screen resolution. We're"
+    },
+    {
+      "start": 173.36,
+      "duration": 5.36,
+      "text": "going to be thinking of millime, 10 mm,"
+    },
+    {
+      "start": 176.239,
+      "duration": 4.241,
+      "text": "20 mm. How long is this line? How big is"
+    },
+    {
+      "start": 178.72,
+      "duration": 4.239,
+      "text": "this piece of paper? How thick is the"
+    },
+    {
+      "start": 180.48,
+      "duration": 4.72,
+      "text": "nib of a pen? That's all this video is"
+    },
+    {
+      "start": 182.959,
+      "duration": 4.161,
+      "text": "all about. So, I think we've got it"
+    },
+    {
+      "start": 185.2,
+      "duration": 3.92,
+      "text": "pretty much covered. There is one more"
+    },
+    {
+      "start": 187.12,
+      "duration": 3.36,
+      "text": "thing. Let me show you. Don't worry,"
+    },
+    {
+      "start": 189.12,
+      "duration": 2.72,
+      "text": "you're not going to get tested on this."
+    },
+    {
+      "start": 190.48,
+      "duration": 3.52,
+      "text": "I just thought I'd want to mention it."
+    },
+    {
+      "start": 191.84,
+      "duration": 4.8,
+      "text": "Here's our pen plotter or a pen plotter"
+    },
+    {
+      "start": 194.0,
+      "duration": 4.64,
+      "text": "when you're using an SVG. And if you're"
+    },
+    {
+      "start": 196.64,
+      "duration": 4.0,
+      "text": "a designer and you're used to designing"
+    },
+    {
+      "start": 198.64,
+      "duration": 3.92,
+      "text": "in like desktop publishing or for"
+    },
+    {
+      "start": 200.64,
+      "duration": 3.519,
+      "text": "screen, your top left is up here and"
+    },
+    {
+      "start": 202.56,
+      "duration": 4.319,
+      "text": "then you're describing things as being"
+    },
+    {
+      "start": 204.159,
+      "duration": 4.961,
+      "text": "10 millimeters across or 120 pixels"
+    },
+    {
+      "start": 206.879,
+      "duration": 4.401,
+      "text": "down. And you're positioning things from"
+    },
+    {
+      "start": 209.12,
+      "duration": 4.96,
+      "text": "this top leftand corner. We're kind of"
+    },
+    {
+      "start": 211.28,
+      "duration": 5.84,
+      "text": "here's our page layout. This is where"
+    },
+    {
+      "start": 214.08,
+      "duration": 4.239,
+      "text": "we're going. So with our SVGs, this is"
+    },
+    {
+      "start": 217.12,
+      "duration": 3.36,
+      "text": "what we're going to be working with."
+    },
+    {
+      "start": 218.319,
+      "duration": 5.28,
+      "text": "Conceptually, we're thinking about this"
+    },
+    {
+      "start": 220.48,
+      "duration": 6.56,
+      "text": "is the top leftand corner here. But if"
+    },
+    {
+      "start": 223.599,
+      "duration": 5.441,
+      "text": "we're doing G-code, which we might do,"
+    },
+    {
+      "start": 227.04,
+      "duration": 3.52,
+      "text": "and over here on one of these machines,"
+    },
+    {
+      "start": 229.04,
+      "duration": 3.44,
+      "text": "or you might have a machine that uses"
+    },
+    {
+      "start": 230.56,
+      "duration": 4.48,
+      "text": "G-code,"
+    },
+    {
+      "start": 232.48,
+      "duration": 4.24,
+      "text": "then 000 is our bottom leftand corner"
+    },
+    {
+      "start": 235.04,
+      "duration": 3.839,
+      "text": "here, and we're saying how far we want"
+    },
+    {
+      "start": 236.72,
+      "duration": 4.079,
+      "text": "to move across and then how far we want"
+    },
+    {
+      "start": 238.879,
+      "duration": 3.681,
+      "text": "to move up."
+    },
+    {
+      "start": 240.799,
+      "duration": 4.481,
+      "text": "It's not a huge problem because we'll"
+    },
+    {
+      "start": 242.56,
+      "duration": 5.12,
+      "text": "just deal with that."
+    },
+    {
+      "start": 245.28,
+      "duration": 4.48,
+      "text": "And as we work through all the different"
+    },
+    {
+      "start": 247.68,
+      "duration": 3.44,
+      "text": "modules, that will become less and less"
+    },
+    {
+      "start": 249.76,
+      "duration": 2.96,
+      "text": "of an issue. I just wanted to highlight"
+    },
+    {
+      "start": 251.12,
+      "duration": 3.119,
+      "text": "it here because it's a slightly"
+    },
+    {
+      "start": 252.72,
+      "duration": 3.28,
+      "text": "different way of thinking. Anyway,"
+    },
+    {
+      "start": 254.239,
+      "duration": 3.12,
+      "text": "that's it. Moving forwards, we're going"
+    },
+    {
+      "start": 256.0,
+      "duration": 2.799,
+      "text": "to be working in millimeters. We're"
+    },
+    {
+      "start": 257.359,
+      "duration": 3.681,
+      "text": "going to be thinking about sheets of"
+    },
+    {
+      "start": 258.799,
+      "duration": 4.241,
+      "text": "paper. Just wanted to get that covered."
+    },
+    {
+      "start": 261.04,
+      "duration": 3.599,
+      "text": "The next video is going to be about the"
+    },
+    {
+      "start": 263.04,
+      "duration": 3.599,
+      "text": "types of drawing machine artists and"
+    },
+    {
+      "start": 264.639,
+      "duration": 3.84,
+      "text": "where we fit in with that. And then"
+    },
+    {
+      "start": 266.639,
+      "duration": 3.761,
+      "text": "after that, about what an actual SVG"
+    },
+    {
+      "start": 268.479,
+      "duration": 3.601,
+      "text": "file is. Then we're going to get on with"
+    },
+    {
+      "start": 270.4,
+      "duration": 4.92,
+      "text": "some actual code. Okay, I'll see you in"
+    },
+    {
+      "start": 272.08,
+      "duration": 3.24,
+      "text": "the next video."
+    }
+  ],
+  "full_text": "Well, hi. It's good to see you again. I'm just making my way into the studio for what's going to be a very short quick video, which is basically about the anatomy of a piece of paper. It's very windy and cold out here, so let's get in. So, a lot of us are used to dealing with screen resolutions and pixels and canvases and and digital stuff, things like that. It's really dark, isn't it? Hold on. All right, then. That's a little bit better. So, we're going to be artists who are dealing with sheets of paper that have physical dimensions. I know it's obvious, but let's just get this measured. This is 420 ms by 297 mm. That's an A3 sheet of paper. We got this huge sheet here, which is 760 mm by what's that? 568 mm. You have all these different sizes. We're mainly going to be using A4. You might be using other sizes, legal, it it doesn't really matter, but I'm going to be using this. It's 210 mm by 297 mm. And if I'm doing a pen plot, I want to kind of avoid the edges. I want some margins. So, let's say we use a 25 mm by 25 mm margin. So, 25 here, 25 here and here. I actually normally prefer a little bit more down at the bottom. So, 25 25 30 maybe. Regardless, that means that with a little bit of maths, this is 160 mm of drawing area. And down here is going to be 247 mm of drawing area. So, that's what we get to draw in. And now we can kind of talk about resolution a little bit. So, here I have a pen. Hey, cute. It says, \"Hug me.\" And it's a 0.5 mm nib, which means that if we wanted to draw and fill in this area all the way across here, 160 mm, 0.5 nib, I would need to draw 320 lines across this page to fill this in. And that's kind of what I mean by resolution. Maybe this is a better way of explaining it. When we're thinking about designing stuff for pen plotting, we're thinking about a combination between nib size and paper size. That's kind of our resolution. So, if we have this is a failed plot, but we've got this postcard size thing here. But if we use the same pen on this like tiny piece of paper like this, then it'll just look like a a solid black mess. But if we use this same pen or a 0.5 mm on this sheet of paper here, then you'll just have very few lines that are very thin and very far apart. So, all of this is to say that we're going to be thinking in terms of millimeters and dimensions. We're not going to be thinking about pixels and screen resolution. We're going to be thinking of millime, 10 mm, 20 mm. How long is this line? How big is this piece of paper? How thick is the nib of a pen? That's all this video is all about. So, I think we've got it pretty much covered. There is one more thing. Let me show you. Don't worry, you're not going to get tested on this. I just thought I'd want to mention it. Here's our pen plotter or a pen plotter when you're using an SVG. And if you're a designer and you're used to designing in like desktop publishing or for screen, your top left is up here and then you're describing things as being 10 millimeters across or 120 pixels down. And you're positioning things from this top leftand corner. We're kind of here's our page layout. This is where we're going. So with our SVGs, this is what we're going to be working with. Conceptually, we're thinking about this is the top leftand corner here. But if we're doing G-code, which we might do, and over here on one of these machines, or you might have a machine that uses G-code, then 000 is our bottom leftand corner here, and we're saying how far we want to move across and then how far we want to move up. It's not a huge problem because we'll just deal with that. And as we work through all the different modules, that will become less and less of an issue. I just wanted to highlight it here because it's a slightly different way of thinking. Anyway, that's it. Moving forwards, we're going to be working in millimeters. We're going to be thinking about sheets of paper. Just wanted to get that covered. The next video is going to be about the types of drawing machine artists and where we fit in with that. And then after that, about what an actual SVG file is. Then we're going to get on with some actual code. Okay, I'll see you in the next video."
+}

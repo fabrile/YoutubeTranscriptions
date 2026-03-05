@@ -1,0 +1,1246 @@
+{
+  "video_id": "osMooAvpSSs",
+  "video_url": "https://www.youtube.com/watch?v=osMooAvpSSs",
+  "title": "World's First Data Center in Space: Genius or Madness",
+  "channel": "Anastasi In Tech",
+  "channel_url": "https://www.youtube.com/@AnastasiInTech",
+  "language": "en (manual)",
+  "segments": [
+    {
+      "start": 0.88,
+      "duration": 7.2,
+      "text": "Starcloud one separation confirmed. This is \nthe first launch of a data center in space.  "
+    },
+    {
+      "start": 8.08,
+      "duration": 6.64,
+      "text": "And here Elon and Jensen seriously discussing \nputting them on orbit. My first thought was,  "
+    },
+    {
+      "start": 14.72,
+      "duration": 6.96,
+      "text": "are you serious? Then it got far more interesting \nbecause it's not just them. Google, Amazon,  "
+    },
+    {
+      "start": 21.68,
+      "duration": 7.28,
+      "text": "everyone is circling the same idea. There is \nsomething about space that keeps pulling us back.  "
+    },
+    {
+      "start": 28.96,
+      "duration": 8.96,
+      "text": "the next step beyond Earth data centers is our our \nEarth orbital data centers. and we'll be launching  "
+    },
+    {
+      "start": 37.92,
+      "duration": 7.28,
+      "text": "with SpaceX orbital data centers at the 100 to 200 \ngigawatt per year. What if you want to go beyond  "
+    },
+    {
+      "start": 45.2,
+      "duration": 6.24,
+      "text": "a mere terawatt per year? In order to do that, you \nhave to go to the moon. I've spent the last decade  "
+    },
+    {
+      "start": 51.44,
+      "duration": 7.76,
+      "text": "designing microchips that live or die by physics. \nThat's why this episode is personal because this  "
+    },
+    {
+      "start": 59.2,
+      "duration": 7.04,
+      "text": "idea sits right on the knife's edge because \nit's either pure madness or inevitable next  "
+    },
+    {
+      "start": 66.24,
+      "duration": 7.92,
+      "text": "step. Subscribe to the channel and let me explain. \nWe are building gigawatt data centers. And these  "
+    },
+    {
+      "start": 74.16,
+      "duration": 8.0,
+      "text": "are not just big buildings with servers. It's AI \nsupercomputers the size of cities, millions of  "
+    },
+    {
+      "start": 82.16,
+      "duration": 7.68,
+      "text": "GPUs. And we built power plants next door just to \nkeep them alive. And the most unglamorous part is  "
+    },
+    {
+      "start": 89.84,
+      "duration": 8.16,
+      "text": "cooling. Because these campuses don't just consume \nelectricity, they devour water. They drain rivers  "
+    },
+    {
+      "start": 98.0,
+      "duration": 6.72,
+      "text": "just to stop silicon from cooking itself to death. \nBut what's becoming even more scarce than power  "
+    },
+    {
+      "start": 104.72,
+      "duration": 8.8,
+      "text": "and water is time. That's why hyperscalers are in \na land grab. Speed is a mode now. But on Earth,  "
+    },
+    {
+      "start": 113.52,
+      "duration": 8.16,
+      "text": "permits take years. Land is limited. Power grid \nis sold out. And the road map says we need 100  "
+    },
+    {
+      "start": 121.68,
+      "duration": 6.96,
+      "text": "times more compute by 2030. If this trend \ncontinues, we don't just run out of power,  "
+    },
+    {
+      "start": 128.64,
+      "duration": 8.08,
+      "text": "we run out of Earth. So maybe it's time to put the \nCloud in the clouds. I know it sounds ridiculous,  "
+    },
+    {
+      "start": 136.72,
+      "duration": 8.48,
+      "text": "but space is tempting. There is no land limits \nand in theory unlimited solar power. It sounds  "
+    },
+    {
+      "start": 145.2,
+      "duration": 8.32,
+      "text": "clean and infinite, but this idea is insane \non so many levels. That's why I can't wait to  "
+    },
+    {
+      "start": 153.52,
+      "duration": 7.36,
+      "text": "unpack it today. We will do it in two layers. \nPlan A, put data centers in orbit. Plan B,  "
+    },
+    {
+      "start": 160.88,
+      "duration": 8.16,
+      "text": "put data centers on the Moon. So, what would it \nactually take to build a tiny 20,000 GPU data  "
+    },
+    {
+      "start": 169.04,
+      "duration": 6.48,
+      "text": "center and make it fly over your head? Before we \nlaunch anything, we have to be honest about what  "
+    },
+    {
+      "start": 175.52,
+      "duration": 7.12,
+      "text": "an AI data center is. Because launching GPUs \nto space is easy. Launching a functioning AI  "
+    },
+    {
+      "start": 182.64,
+      "duration": 6.72,
+      "text": "data center is not. On Earth, a data center is \nsurrounded by invisible infrastructure. Power  "
+    },
+    {
+      "start": 189.36,
+      "duration": 7.2,
+      "text": "comes from somewhere else. Cooling is an entire \nscience. Fibers stitches thousands of servers into  "
+    },
+    {
+      "start": 196.56,
+      "duration": 8.8,
+      "text": "one giant AI supercomputer. In orbit, all of that \ndisappears. So, let's run the checklist. First, to  "
+    },
+    {
+      "start": 205.36,
+      "duration": 6.96,
+      "text": "launch a data center into orbit, you need compute. \nThat's the easy part. We already know how to build  "
+    },
+    {
+      "start": 212.32,
+      "duration": 7.68,
+      "text": "absurdly powerful GPUs. But the moment you leave \nEarth, silicon enters a different battlefield.  "
+    },
+    {
+      "start": 220.0,
+      "duration": 6.4,
+      "text": "Space is brutal to chips. It's constantly \nbombarding them with high energy particles. So,  "
+    },
+    {
+      "start": 226.4,
+      "duration": 6.24,
+      "text": "we need chips that can survive this huge amount \nof radiation. You don't see these particles,  "
+    },
+    {
+      "start": 232.64,
+      "duration": 5.84,
+      "text": "but they flip bits in memory, corrupt \ncalculations, slowly degrade transistors.  "
+    },
+    {
+      "start": 238.48,
+      "duration": 7.36,
+      "text": "Space slowly kills your servers, one bit flip \nat a time. On Earth, the atmosphere and magnetic  "
+    },
+    {
+      "start": 245.84,
+      "duration": 7.6,
+      "text": "field absorb most of that. In low Earth orbit, you \nstill get partial protection. So, it's survivable,  "
+    },
+    {
+      "start": 253.44,
+      "duration": 6.88,
+      "text": "but not forgiving, which means you can't just \nthrow a rack of GPUs into orbit. You have to  "
+    },
+    {
+      "start": 260.32,
+      "duration": 6.48,
+      "text": "shield them from all the sides carefully. We \nneed physical shielding that blocks particles  "
+    },
+    {
+      "start": 266.8,
+      "duration": 6.32,
+      "text": "without adding too much mass. Technically, \nthis is solvable and we already have proof.  "
+    },
+    {
+      "start": 273.12,
+      "duration": 8.16,
+      "text": "Startup Starcloud already sent NVIDIA Hopper GPU \ninto space and it's already about 100 times more  "
+    },
+    {
+      "start": 281.28,
+      "duration": 6.72,
+      "text": "powerful than any computer previously operated \nin orbit and it's already running inference in  "
+    },
+    {
+      "start": 288.0,
+      "duration": 6.8,
+      "text": "space. So the question is no longer can GPUs \nsurvive up there. The question is does it  "
+    },
+    {
+      "start": 294.8,
+      "duration": 7.12,
+      "text": "make any sense economically and technically? \nBecause the moment you turn these GPUs on,  "
+    },
+    {
+      "start": 301.92,
+      "duration": 7.36,
+      "text": "they start pulling power. And power is the least \ninsane part of that story. Because on Earth,  "
+    },
+    {
+      "start": 309.28,
+      "duration": 6.96,
+      "text": "you have clouds, night, bad weather. In \norbit, you just get sunlight and a lot of  "
+    },
+    {
+      "start": 316.24,
+      "duration": 6.56,
+      "text": "it. At first glance, it looks perfect. \nYou unfold solar arrays, face the sun,  "
+    },
+    {
+      "start": 322.8,
+      "duration": 7.68,
+      "text": "collect energy, run your systems, charge batteries \nfor eclipse. repeat every orbit. At small scale,  "
+    },
+    {
+      "start": 330.48,
+      "duration": 8.48,
+      "text": "it works beautifully until it is a data center \nbecause the moment you scale to real AI compute,  "
+    },
+    {
+      "start": 338.96,
+      "duration": 7.12,
+      "text": "everything changes. On Earth, modern AI campuses \nalready sit in the gigawatt range. Of course,  "
+    },
+    {
+      "start": 346.08,
+      "duration": 6.88,
+      "text": "the first orbital proposals are more modest, tens \nof megawatts. Starcloud, for example, is aiming  "
+    },
+    {
+      "start": 352.96,
+      "duration": 9.76,
+      "text": "at roughly 40 megawatts. That's about 300 NVLink \n72 racks with about 20,000 GPUs in total. Now,  "
+    },
+    {
+      "start": 362.72,
+      "duration": 7.04,
+      "text": "let's run the numbers. 10 square meters of solar \npanels gives you just a few kilowatts. Scale that  "
+    },
+    {
+      "start": 369.76,
+      "duration": 9.28,
+      "text": "to 40 megawatts and the geometry explodes. You're \nlooking at something like a 350x350 m solar array.  "
+    },
+    {
+      "start": 379.04,
+      "duration": 8.4,
+      "text": "over 100,000 square meters and roughly 400 \ntons. Just picture it. Dozens of football  "
+    },
+    {
+      "start": 387.44,
+      "duration": 8.32,
+      "text": "fields of solar panels flying over your head at \nnearly 8 kilometers per second. That's massive,  "
+    },
+    {
+      "start": 395.76,
+      "duration": 7.84,
+      "text": "but not impossible if delivered in pieces. And the \nupside is real. In orbit, solar outperforms ground  "
+    },
+    {
+      "start": 403.6,
+      "duration": 8.08,
+      "text": "systems by at least 10 times. Imagine we shoot \nall of that to space and solve power. Finally,  "
+    },
+    {
+      "start": 411.68,
+      "duration": 7.6,
+      "text": "we've got an AI data center that we won't be \nable to plug off anymore. And just as instantly,  "
+    },
+    {
+      "start": 419.28,
+      "duration": 7.28,
+      "text": "every watt of power you generated turns into your \nnew problem, heat. That's when the dream collides  "
+    },
+    {
+      "start": 426.56,
+      "duration": 8.8,
+      "text": "with physics. Which sounds ridiculous, right? \nBecause space is cold. And that single idea misled  "
+    },
+    {
+      "start": 435.36,
+      "duration": 6.32,
+      "text": "more engineers than anything else because your \nGPU doesn't care about the temperature in space.  "
+    },
+    {
+      "start": 441.68,
+      "duration": 8.48,
+      "text": "It cares whether the heat can escape silicon. \nEveryone thinks that space is cold. That's why  "
+    },
+    {
+      "start": 450.16,
+      "duration": 6.64,
+      "text": "this problem is so dangerous. In low Earth orbit, \nyou're essentially sitting in near perfect vacuum.  "
+    },
+    {
+      "start": 456.8,
+      "duration": 6.8,
+      "text": "There is no air, no medium to carry heat away. \nAnd the higher you go, the more absolute the  "
+    },
+    {
+      "start": 463.6,
+      "duration": 8.4,
+      "text": "vacuum becomes. Space is cold. But vacuum is \nan insulator which actually make things much  "
+    },
+    {
+      "start": 472.0,
+      "duration": 7.68,
+      "text": "harder to cool in space. On Earth, heat disappears \neasily. Air molecules collide with hot surfaces  "
+    },
+    {
+      "start": 479.68,
+      "duration": 7.84,
+      "text": "and carry energy off. Water pulls heat away even \nfaster. In space, none of that exists. You cannot  "
+    },
+    {
+      "start": 487.52,
+      "duration": 8.56,
+      "text": "dump heat into space. You can only radiate it \naway and radiation is slow. Typically, it's  "
+    },
+    {
+      "start": 496.08,
+      "duration": 6.4,
+      "text": "hundreds of times less effective than convection \nor liquid cooling on Earth. That's why satellites  "
+    },
+    {
+      "start": 502.48,
+      "duration": 7.68,
+      "text": "carry radiators, huge panels whose only job is to \ndump waste heat into darkness. This is where the  "
+    },
+    {
+      "start": 510.16,
+      "duration": 7.68,
+      "text": "fantasy meets thermodynamics. Radiative cooling \nfollows this Stefan-Boltzmann Law. In plain terms,  "
+    },
+    {
+      "start": 517.84,
+      "duration": 6.48,
+      "text": "if you want to dump megawatts of heat without \nmelting your hardware, you add surface area,  "
+    },
+    {
+      "start": 524.32,
+      "duration": 7.6,
+      "text": "a lot of it. For a 40 megawatt orbital data \ncenter, the math lands in the range of 120,000  "
+    },
+    {
+      "start": 531.92,
+      "duration": 8.24,
+      "text": "square meters effective area. That's about 15 to \n20 football fields of radiator wings in orbit.  "
+    },
+    {
+      "start": 540.16,
+      "duration": 6.56,
+      "text": "This means radiators must be huge compared to the \nrelative compute load and most likely implemented  "
+    },
+    {
+      "start": 546.72,
+      "duration": 7.2,
+      "text": "as two-sided panels. But here is the critical \npart. Radiator mass compounds the problem. It  "
+    },
+    {
+      "start": 553.92,
+      "duration": 6.08,
+      "text": "scales with how much heat you have to reject. \nIf we are using a standard spacecraft estimates,  "
+    },
+    {
+      "start": 560.0,
+      "duration": 8.16,
+      "text": "you're looking at roughly 400 to 800 tons of \nradiator hardware for a 40 megawatt data center.  "
+    },
+    {
+      "start": 568.16,
+      "duration": 7.44,
+      "text": "And that's just for cooling. At the current launch \nprices, that's in the range of $2 to4 billion just  "
+    },
+    {
+      "start": 575.6,
+      "duration": 6.72,
+      "text": "to launch the radiators. And when launch cost will \ndrop to something $500 per kilogram with Starship,  "
+    },
+    {
+      "start": 582.32,
+      "duration": 6.96,
+      "text": "you're looking at something like $200 million to \n$400 million just to launch the cooling. So yes,  "
+    },
+    {
+      "start": 589.28,
+      "duration": 5.2,
+      "text": "Starship helps. But even in the best case, we are \nlooking at hundreds of millions of dollars just  "
+    },
+    {
+      "start": 594.48,
+      "duration": 7.92,
+      "text": "to launch cooling. And surprisingly, from here on, \nit's only getting worse and worse. Electronics in  "
+    },
+    {
+      "start": 602.4,
+      "duration": 6.4,
+      "text": "orbit don't sit at one temperature. In low Earth \norbit, a spacecraft circles the planet every 90  "
+    },
+    {
+      "start": 608.8,
+      "duration": 7.36,
+      "text": "minutes. One moment, it's in direct sunlight \nat 120°. Minutes later, it drops into shadow  "
+    },
+    {
+      "start": 616.16,
+      "duration": 8.32,
+      "text": "at minus 170. That's a 300° temperature swing. And \nthis thermal stress accumulates over its lifespan.  "
+    },
+    {
+      "start": 624.48,
+      "duration": 7.52,
+      "text": "every orbit all day, every day. So in space, you \nneed a different approach. That's exactly what  "
+    },
+    {
+      "start": 632.0,
+      "duration": 6.88,
+      "text": "Starlink does. The electronics inside is wrapped \ninto multi-layer insulation. Thin reflective foils  "
+    },
+    {
+      "start": 638.88,
+      "duration": 8.64,
+      "text": "that block most solar radiation and trap internal \nheat. Small onboard heaters kick in during eclipse  "
+    },
+    {
+      "start": 647.52,
+      "duration": 6.8,
+      "text": "so batteries and processors don't freeze. The \nresult is a controlled internal range from 10  "
+    },
+    {
+      "start": 654.32,
+      "duration": 8.72,
+      "text": "to 60° inside while outside space is trying \nto tear it apart. It works at satellite scale  "
+    },
+    {
+      "start": 663.04,
+      "duration": 8.8,
+      "text": "at few hundred W. But now scale it to a megawatt \ndata center and that's a huge jump with no proven  "
+    },
+    {
+      "start": 671.84,
+      "duration": 7.36,
+      "text": "solution. So suddenly the cold vacuum of space \nbecome the hottest engineering problem. on paper"
+    },
+    {
+      "start": 679.2,
+      "duration": 7.84,
+      "text": "Space data centers look elegant, but the image \nchanges fast. It's not GPUs on the orbit,  "
+    },
+    {
+      "start": 687.04,
+      "duration": 9.36,
+      "text": "it's radiators and panels in orbit. But even if \nyou solve heat, you still need to talk to Earth.  "
+    },
+    {
+      "start": 696.4,
+      "duration": 7.76,
+      "text": "Because if the results can't get down, the compute \ndoesn't matter. It's just a very expensive space  "
+    },
+    {
+      "start": 704.16,
+      "duration": 8.16,
+      "text": "heater. Next, we will discuss the real killer of \ndata centers in space and wrap up the economics  "
+    },
+    {
+      "start": 712.32,
+      "duration": 6.88,
+      "text": "and see if it makes sense to build a data center \non the moon instead. But before we go there,  "
+    },
+    {
+      "start": 719.2,
+      "duration": 6.88,
+      "text": "I want to talk to you about my favorite tech \nmagazine - IEEE Spectrum. It keeps me sharp on  "
+    },
+    {
+      "start": 726.08,
+      "duration": 7.12,
+      "text": "what's happening across the industry, including \nsemiconductors, AI, robotics, energy, and space  "
+    },
+    {
+      "start": 733.2,
+      "duration": 7.2,
+      "text": "tech. When I want real depth and high quality \nanalysis, IEEE Spectrum is where I go. They  "
+    },
+    {
+      "start": 740.4,
+      "duration": 6.4,
+      "text": "consistently cover the trends that actually matter \nacross the tech stack. Running a tech company and  "
+    },
+    {
+      "start": 746.8,
+      "duration": 6.88,
+      "text": "making content in tech means I need signal, not \nnoise. And that's exactly what I get there. I  "
+    },
+    {
+      "start": 753.68,
+      "duration": 6.88,
+      "text": "actually enjoy reading both digital and physical \nmagazines. Digital gives you instant access,  "
+    },
+    {
+      "start": 760.56,
+      "duration": 6.96,
+      "text": "archives, and newsletters. Great for staying \ncurrent, but the print edition is special. You  "
+    },
+    {
+      "start": 767.52,
+      "duration": 6.56,
+      "text": "sit down with a cup of coffee and really spend \ntime with it without distractions. I love to  "
+    },
+    {
+      "start": 774.08,
+      "duration": 6.32,
+      "text": "keep past issues on my desk and revisit them. \nThat's my steadiest source of ideas. If you  "
+    },
+    {
+      "start": 780.4,
+      "duration": 7.36,
+      "text": "care about staying ahead in tech and engineering, \nsubscribe to IEEE Spectrum now through the link  "
+    },
+    {
+      "start": 787.76,
+      "duration": 6.16,
+      "text": "below and you will get an exclusive 10% off \nyour subscription. If you enjoy my content,  "
+    },
+    {
+      "start": 793.92,
+      "duration": 5.44,
+      "text": "you will most certainly love their content, \ntoo. And to me, that means a lot that they are  "
+    },
+    {
+      "start": 799.36,
+      "duration": 7.76,
+      "text": "sponsoring this episode. Now, back to the space \ndream. And now, things will get uncomfortable  "
+    },
+    {
+      "start": 807.12,
+      "duration": 6.24,
+      "text": "because on Earth, data centers are stitched \ntogether with fiber. Inside modern AI clusters,  "
+    },
+    {
+      "start": 813.36,
+      "duration": 7.12,
+      "text": "links are already pushing towards 1.6 terabits per \nsecond. That's the baseline these systems expect.  "
+    },
+    {
+      "start": 820.48,
+      "duration": 6.96,
+      "text": "constant high throughput communication between \nracks, clusters and users. So the moment you put a  "
+    },
+    {
+      "start": 827.44,
+      "duration": 8.64,
+      "text": "supercomputer on orbit, a question arises, how do \nyou move that much data back to Earth? In theory,  "
+    },
+    {
+      "start": 836.08,
+      "duration": 6.56,
+      "text": "you can send enormous amounts of data through \nspace using lasers. This is called free space  "
+    },
+    {
+      "start": 842.64,
+      "duration": 6.96,
+      "text": "orbital communication. You fire extremely precise \nlaser beams between satellites and those beams  "
+    },
+    {
+      "start": 849.6,
+      "duration": 6.64,
+      "text": "carry data at hundreds of gigabits per second. \nStarlink already use it between satellites inside  "
+    },
+    {
+      "start": 856.24,
+      "duration": 5.6,
+      "text": "space Band can be actually incredible. We are \ntalking about hundreds of gigabits per second  "
+    },
+    {
+      "start": 861.84,
+      "duration": 7.28,
+      "text": "because there is no atmosphere, no cables, just \nlight. The real bottleneck is getting that data  "
+    },
+    {
+      "start": 869.12,
+      "duration": 7.12,
+      "text": "back to Earth. Because the moment this signal hits \nthe atmosphere, everything changes. Clouds scatter  "
+    },
+    {
+      "start": 876.24,
+      "duration": 7.04,
+      "text": "light. Weather interferes. Even turbulence in the \nair distorts the beam. You can work around some  "
+    },
+    {
+      "start": 883.28,
+      "duration": 6.88,
+      "text": "of that with phase arrays. These are flat antennas \nthat steer and focus the signal into a very tight  "
+    },
+    {
+      "start": 890.16,
+      "duration": 7.28,
+      "text": "beam. So tight that enough of it reaches Earth. \nIt helps, but it's still nowhere near fiber  "
+    },
+    {
+      "start": 897.44,
+      "duration": 7.76,
+      "text": "level capacity. So, here you end up with a strange \nmismatch. Massive compute in orbit and very narrow  "
+    },
+    {
+      "start": 905.2,
+      "duration": 8.0,
+      "text": "pipelines down to Earth. And the thing is, the \nfurther from Earth you go, the worse it gets. And  "
+    },
+    {
+      "start": 913.2,
+      "duration": 5.68,
+      "text": "we will come back to that in a moment when talking \nabout the Moon. By now, the pattern is clear.  "
+    },
+    {
+      "start": 918.88,
+      "duration": 8.32,
+      "text": "Power is solvable. Cooling is brutal. bandwidth is \nthe weak spot. And even if you solve all of that,  "
+    },
+    {
+      "start": 927.2,
+      "duration": 7.76,
+      "text": "eventually something will break because GPUs \nfail. Components age and in about 4 years  "
+    },
+    {
+      "start": 934.96,
+      "duration": 7.12,
+      "text": "they are obsolete anyway. So imagine you want to \nreplace a failed unit or upgrade the cluster. How  "
+    },
+    {
+      "start": 942.08,
+      "duration": 9.2,
+      "text": "do you go about maintenance? On Earth, we walk in, \nreplace a rack, swap a part, and move on in orbit.  "
+    },
+    {
+      "start": 951.28,
+      "duration": 6.32,
+      "text": "That's impossible. So the whole thing is \ndesigned for survival or for replacement. Both  "
+    },
+    {
+      "start": 957.6,
+      "duration": 7.44,
+      "text": "hurt. The moment you put a data center in space, \nphysical maintenance disappears. No technicians,  "
+    },
+    {
+      "start": 965.04,
+      "duration": 6.72,
+      "text": "no quick fixes. Everything has to keep running \non its own. So here the philosophy changes  "
+    },
+    {
+      "start": 971.76,
+      "duration": 7.2,
+      "text": "completely. You don't fix things in orbit. You \njust outnumber the failure. And this forces you to  "
+    },
+    {
+      "start": 978.96,
+      "duration": 6.56,
+      "text": "launch more capacity than you actually need. Extra \nnodes sitting idle, ready to take over the second  "
+    },
+    {
+      "start": 985.52,
+      "duration": 6.64,
+      "text": "something glitches. If one server dies, the system \nreroots around it. The fleet slowly refreshing  "
+    },
+    {
+      "start": 992.16,
+      "duration": 6.16,
+      "text": "itself over time. Here, software becomes the \nfirst line of maintenance. Most of the things are  "
+    },
+    {
+      "start": 998.32,
+      "duration": 6.88,
+      "text": "fixed remotely and from the outside it looks like \nnothing happened. Only when hardware truly fails,  "
+    },
+    {
+      "start": 1005.2,
+      "duration": 6.24,
+      "text": "you accept the loss and then you wait for the \nnext launch window and send up a replacement.  "
+    },
+    {
+      "start": 1011.44,
+      "duration": 7.28,
+      "text": "This is how Starlink already works. They don't \nrepair units, they replace them. New units go up  "
+    },
+    {
+      "start": 1018.72,
+      "duration": 6.56,
+      "text": "constantly. Old or failed ones de-orbit and burn \nup in the atmosphere. Right now, it's happening  "
+    },
+    {
+      "start": 1025.28,
+      "duration": 6.64,
+      "text": "at a steady cadence of two satellites a day. \nSatellites coming down, new ones going up.  "
+    },
+    {
+      "start": 1031.92,
+      "duration": 6.48,
+      "text": "Most of the debris vaporizes before it reaches \nthe ground. The problem here, it doesn't just  "
+    },
+    {
+      "start": 1038.4,
+      "duration": 6.96,
+      "text": "disappear. What's left becomes a thin layer of \nparticles high in the atmosphere. Aluminum oxides  "
+    },
+    {
+      "start": 1045.36,
+      "duration": 6.0,
+      "text": "and other remnants that can linger for years. \nScientists are still studying what that means  "
+    },
+    {
+      "start": 1051.36,
+      "duration": 7.6,
+      "text": "for ozone and climate. Well, at small satellite \nscale, this model works. At data center scale,  "
+    },
+    {
+      "start": 1058.96,
+      "duration": 8.08,
+      "text": "it's brutal. Moreover, every upgrade is tied to \na rocket and suddenly economics start to dominate  "
+    },
+    {
+      "start": 1067.04,
+      "duration": 7.2,
+      "text": "the conversation because redundancy means extra \nhardware. Extra hardware means extra launches and  "
+    },
+    {
+      "start": 1074.24,
+      "duration": 7.6,
+      "text": "remember tons of solar and radiators and all of \nthat becomes very expensive. And this is where the  "
+    },
+    {
+      "start": 1081.84,
+      "duration": 7.12,
+      "text": "romance ends and the spreadsheet begins because \nif it's not cheaper or strategically necessary,  "
+    },
+    {
+      "start": 1088.96,
+      "duration": 7.44,
+      "text": "it won't scale. Let's go back to our 40 megawatts \norbital data center. That's about 400 tons of  "
+    },
+    {
+      "start": 1096.4,
+      "duration": 8.4,
+      "text": "compute plus 400 tons of radiators plus 400 \ntons of solar. So more than 1,000 tons total  "
+    },
+    {
+      "start": 1104.8,
+      "duration": 8.24,
+      "text": "mass. At today's launch prices, about $5,000 per \nkilogram, you are looking at at least $5 billion  "
+    },
+    {
+      "start": 1113.04,
+      "duration": 6.8,
+      "text": "just to lift a system like this into orbit. And \nthat's only to get the mass of the planet. It  "
+    },
+    {
+      "start": 1119.84,
+      "duration": 7.76,
+      "text": "doesn't include solar panel costs, compute cost, \nbatteries, it doesn't include the cooling. And if  "
+    },
+    {
+      "start": 1127.6,
+      "duration": 6.88,
+      "text": "you add all of this infrastructure, the costs are \njust exploding. we coming to the kind of numbers  "
+    },
+    {
+      "start": 1134.48,
+      "duration": 7.92,
+      "text": "that make even the richest hyperscalers pause. In \nthe end, it all comes down to one simple matrix,  "
+    },
+    {
+      "start": 1142.4,
+      "duration": 6.96,
+      "text": "watts per dollar. And at the moment, I'm not \nconvinced the math here works. And I know at the  "
+    },
+    {
+      "start": 1149.36,
+      "duration": 6.96,
+      "text": "moment this idea might already look like madness \nto you. Well, at some point it might start making  "
+    },
+    {
+      "start": 1156.32,
+      "duration": 6.32,
+      "text": "sense because launch costs are falling so fast. \nCompanies like SpaceX and Stoke are pushing that  "
+    },
+    {
+      "start": 1162.64,
+      "duration": 7.04,
+      "text": "curve down. Internal launch costs for SpaceX are \nlikely far lower, at least five times, than public  "
+    },
+    {
+      "start": 1169.68,
+      "duration": 6.8,
+      "text": "pricing. That's the only reason why anyone serious \nis even talking about orbital data centers. And  "
+    },
+    {
+      "start": 1176.48,
+      "duration": 6.64,
+      "text": "it's also why Elon keeps bringing it up. But I \nfeel like we are still missing a breakthrough  "
+    },
+    {
+      "start": 1183.12,
+      "duration": 7.84,
+      "text": "or two to get there. But at the same time, the \norbit is getting really crowded. There are already  "
+    },
+    {
+      "start": 1190.96,
+      "duration": 6.4,
+      "text": "thousands of satellites up there. Put something \nthe size of a floating data center into low orbit  "
+    },
+    {
+      "start": 1197.36,
+      "duration": 6.96,
+      "text": "and congestion becomes real. If you need to scale \nit to one terawatt, you need to go to the Moon.  "
+    },
+    {
+      "start": 1204.32,
+      "duration": 6.96,
+      "text": "Well, data centers on the Moon, that's a real \nmoonshot. Why to build a data center on the Moon  "
+    },
+    {
+      "start": 1211.28,
+      "duration": 8.96,
+      "text": "at all? Because Earth has limits. power, land, \npermits, politics. The Moon has none of those.  "
+    },
+    {
+      "start": 1220.24,
+      "duration": 7.52,
+      "text": "Vast surface area. In theory, unlimited expansion. \nThat's the attraction. But guess what? The further  "
+    },
+    {
+      "start": 1227.76,
+      "duration": 7.04,
+      "text": "you go from Earth, the harder everything gets. \nAnd when you try to put a data center on the Moon,  "
+    },
+    {
+      "start": 1234.8,
+      "duration": 8.56,
+      "text": "our checklists get brutal. Let's run it. First, \ncompute. Radiation on the moon is far harsher than  "
+    },
+    {
+      "start": 1243.36,
+      "duration": 6.8,
+      "text": "in low Earth's orbit. There is no magnetic field, \nno atmosphere, nothing between your hardware and  "
+    },
+    {
+      "start": 1250.16,
+      "duration": 7.68,
+      "text": "space. Cosmic rays heat constantly. But solar \nstorms is the real nightmare. A solar storm is  "
+    },
+    {
+      "start": 1257.84,
+      "duration": 6.4,
+      "text": "a massive cloud of charged particles that can \nlast for hours, sometimes days. On the moon,  "
+    },
+    {
+      "start": 1264.24,
+      "duration": 6.32,
+      "text": "it hits directly. No protection. That means \na steady bombardment of high energy particles  "
+    },
+    {
+      "start": 1270.56,
+      "duration": 7.36,
+      "text": "slamming into silicon, flipping bits, corrupting \nmemory, triggering logic errors. A normal GPU  "
+    },
+    {
+      "start": 1277.92,
+      "duration": 7.52,
+      "text": "would not survive long, a couple of days, maybe \na week. So we need a radiation hardened chips,  "
+    },
+    {
+      "start": 1285.44,
+      "duration": 6.08,
+      "text": "but that's explodes complexity and the chip size. \nThen we need to add heavy shielding around the  "
+    },
+    {
+      "start": 1291.52,
+      "duration": 6.32,
+      "text": "hardware and typically use a specialized chip \nprocess like silicon-on-insulator. Basically,  "
+    },
+    {
+      "start": 1297.84,
+      "duration": 6.16,
+      "text": "instead of building transistors directly on \nsilicon, you isolate them on a thin insulating  "
+    },
+    {
+      "start": 1304.0,
+      "duration": 6.56,
+      "text": "layer. That separation reduces the chances that \nthe particle strike triggers a cascade of current  "
+    },
+    {
+      "start": 1310.56,
+      "duration": 7.2,
+      "text": "through the chip. It makes circuits far more \ntolerant to radiation. And yes, all of that works,  "
+    },
+    {
+      "start": 1317.76,
+      "duration": 7.84,
+      "text": "but it's expensive. Radiation hardened chips \ncan cost 10 to 100 times more than normal chips,  "
+    },
+    {
+      "start": 1325.6,
+      "duration": 6.16,
+      "text": "and they are usually slower. You don't want \nto put cutting edge 2 nanometer GPU on the  "
+    },
+    {
+      "start": 1331.76,
+      "duration": 7.28,
+      "text": "Moon. The newest nodes are the most fragile. \nTransistors are so small now that a single high  "
+    },
+    {
+      "start": 1339.04,
+      "duration": 7.12,
+      "text": "energy particle can do more than flip a bit. It \ncan knock out an entire computing core. With every  "
+    },
+    {
+      "start": 1346.16,
+      "duration": 7.76,
+      "text": "transistor shrink with smaller and smaller nodes, \nperformance goes up, resilience goes down. Also,  "
+    },
+    {
+      "start": 1353.92,
+      "duration": 5.52,
+      "text": "some suggest that you can just keep all this \nheavy protection. And of course, you could,  "
+    },
+    {
+      "start": 1359.44,
+      "duration": 6.72,
+      "text": "but then you bet that your multi-billion dollar \nlunar supercluster will survive more than a  "
+    },
+    {
+      "start": 1366.16,
+      "duration": 8.24,
+      "text": "month. Probably it won't. So you fall back \nto more mature nodes like 7 nanometer. AMD  "
+    },
+    {
+      "start": 1374.4,
+      "duration": 8.0,
+      "text": "has already some radiation hardened designs like \nSOC's and FPGAs but so far no radiation hardened  "
+    },
+    {
+      "start": 1382.4,
+      "duration": 6.56,
+      "text": "GPUs. These are reliable but not the cutting edge \nwhich means you already trading the performance  "
+    },
+    {
+      "start": 1388.96,
+      "duration": 8.56,
+      "text": "for survival. And as if it wasn't enough, the Moon \nadds one more complication dust. fine, abrasive  "
+    },
+    {
+      "start": 1397.52,
+      "duration": 7.36,
+      "text": "electrostatic dust that clings to everything. It \ncoats radiators, degrades objects, interferes with  "
+    },
+    {
+      "start": 1404.88,
+      "duration": 6.72,
+      "text": "moving parts, slowly killing hardware over time. \nAnd that's before you've even turned the system  "
+    },
+    {
+      "start": 1411.6,
+      "duration": 7.76,
+      "text": "on. Because in the end, compute isn't the hardest \nproblem. Power is. At first glance, this sounds  "
+    },
+    {
+      "start": 1419.36,
+      "duration": 8.48,
+      "text": "easy. Solar energy is abundant on the Moon. There \nis no atmosphere, no clouds, just pure sunlight.  "
+    },
+    {
+      "start": 1427.84,
+      "duration": 7.84,
+      "text": "Perfect, right? Not quite. The Moon rotates \nslowly. One Moon or day lasts about 29 Earth  "
+    },
+    {
+      "start": 1435.68,
+      "duration": 7.6,
+      "text": "days. That means roughly 14 days of continuous \nsunlight followed by 14 days of complete darkness.  "
+    },
+    {
+      "start": 1443.28,
+      "duration": 7.04,
+      "text": "During the darkness, solar output drops to zero. \nSo now you need either massive battery storage or  "
+    },
+    {
+      "start": 1450.32,
+      "duration": 7.84,
+      "text": "nuclear reactors deployed on the lunar surface. \nBoth add mass mass adds launch cost. And once  "
+    },
+    {
+      "start": 1458.16,
+      "duration": 6.48,
+      "text": "again launch cost dominates everything. Let's \nassume somehow you solved power and can survive  "
+    },
+    {
+      "start": 1464.64,
+      "duration": 7.52,
+      "text": "two week night. Now you finally have a lunar data \ncenter. And now comes the question that ruins the  "
+    },
+    {
+      "start": 1472.16,
+      "duration": 8.4,
+      "text": "mood. How do you cool it? Because on the Moon, \nheat has no place to go. No air, no wind, no  "
+    },
+    {
+      "start": 1480.56,
+      "duration": 6.88,
+      "text": "atmosphere to carry it away. But now at the Moon, \nextreme temperature swings. Surface temperatures  "
+    },
+    {
+      "start": 1487.44,
+      "duration": 8.88,
+      "text": "can swing from over 120° C in sunlight to \nbelow - 130° C at night. In shadowed craters,  "
+    },
+    {
+      "start": 1496.32,
+      "duration": 7.44,
+      "text": "it drops even lower. Your hardware isn't just \nhot. It's expanding and contracting constantly.  "
+    },
+    {
+      "start": 1503.76,
+      "duration": 6.16,
+      "text": "Just like in orbit, radiators become critical. \nThey have to be enormous, disproportionately  "
+    },
+    {
+      "start": 1509.92,
+      "duration": 6.32,
+      "text": "large compared to the compute they're cooling. I'm \nsure at this point many of you are already ready  "
+    },
+    {
+      "start": 1516.24,
+      "duration": 6.56,
+      "text": "to give up on this crazy idea. But we haven't \ncovered the worst part yet because the biggest  "
+    },
+    {
+      "start": 1522.8,
+      "duration": 8.48,
+      "text": "killer isn't the heat. It's physics. Specifically, \nthe speed of light. The Moon sits nearly 400,000  "
+    },
+    {
+      "start": 1531.28,
+      "duration": 6.56,
+      "text": "kilometers away, which means every bit of data \nhas to cross that distance. The only realistic  "
+    },
+    {
+      "start": 1537.84,
+      "duration": 6.72,
+      "text": "way to move large volumes here is through laser \noptical communication. High power infrared beams  "
+    },
+    {
+      "start": 1544.56,
+      "duration": 7.28,
+      "text": "aimed directly at optical ground stations on \nEarth. Interior, this works beautifully. Laser  "
+    },
+    {
+      "start": 1551.84,
+      "duration": 6.64,
+      "text": "links can reach gigabits level speed, which \nis enough for bulky data transfer. But light,  "
+    },
+    {
+      "start": 1558.48,
+      "duration": 7.36,
+      "text": "light is only so fast. It takes about 1.3 seconds \nto travel one way from the moon to Earth. Even  "
+    },
+    {
+      "start": 1565.84,
+      "duration": 5.68,
+      "text": "under perfect conditions, you're looking at \nroughly 2.6 seconds of round trip latency.  "
+    },
+    {
+      "start": 1571.52,
+      "duration": 6.24,
+      "text": "That severely limits the list of applications. So \nit won't work for real-time applications like AI  "
+    },
+    {
+      "start": 1577.76,
+      "duration": 7.92,
+      "text": "inference for what we use terrestrial data centers \nfor, but it might work for data storage or large  "
+    },
+    {
+      "start": 1585.68,
+      "duration": 6.32,
+      "text": "jobs where you process everything up there and \nthen send the results down afterwards. Compare it  "
+    },
+    {
+      "start": 1592.0,
+      "duration": 8.32,
+      "text": "with low Earth's orbit where latency sits around \n10 to 50 milliseconds. The Moon feels distant. So  "
+    },
+    {
+      "start": 1600.32,
+      "duration": 6.8,
+      "text": "what would make sense up there? probably storage. \nBut then you can ask an obvious question. Isn't  "
+    },
+    {
+      "start": 1607.12,
+      "duration": 6.88,
+      "text": "storage already way too expensive on Earth? And \nyet this is exactly what Lonear data holding is  "
+    },
+    {
+      "start": 1614.0,
+      "duration": 7.44,
+      "text": "experimenting with offplanet data storage. This \nis a strategy to keep the most valuable important  "
+    },
+    {
+      "start": 1621.44,
+      "duration": 7.12,
+      "text": "data of Earth. So if something goes wrong here, \nthis is a way to back us up. Lonestar planned to  "
+    },
+    {
+      "start": 1628.56,
+      "duration": 8.08,
+      "text": "build up tiny lunar data centers. They launched \na test mission in March 2025, so last year,  "
+    },
+    {
+      "start": 1636.64,
+      "duration": 7.44,
+      "text": "with 1 kilogram of compute plus SSD storage. But \nunfortunately, the landing didn't succeed. Still,  "
+    },
+    {
+      "start": 1644.08,
+      "duration": 6.8,
+      "text": "the direction is clear. The long game isn't \nstreaming or real-time compute. It's backup. If  "
+    },
+    {
+      "start": 1650.88,
+      "duration": 7.44,
+      "text": "something catastrophic happens on Earth, the data \nsurvives somewhere else, cold storage. And yes,  "
+    },
+    {
+      "start": 1658.32,
+      "duration": 6.0,
+      "text": "extremely expensive one. So, if you're not \nyet convinced that this whole idea is a little  "
+    },
+    {
+      "start": 1664.32,
+      "duration": 8.08,
+      "text": "lunatic, let's talk about the final killer, \neconomics. Getting mass to orbit is expensive.  "
+    },
+    {
+      "start": 1672.4,
+      "duration": 6.56,
+      "text": "Landing payloads on the Moon can cost 20 times \nmore per kilogram than low Earth orbit. Everything  "
+    },
+    {
+      "start": 1678.96,
+      "duration": 7.36,
+      "text": "must land softly, which is not guaranteed. So, \na small lunar data center quickly becomes a mega  "
+    },
+    {
+      "start": 1686.32,
+      "duration": 6.32,
+      "text": "expensive project. Basically, you have to solve \neverything we've discussed for orbit and then  "
+    },
+    {
+      "start": 1692.64,
+      "duration": 6.64,
+      "text": "add even more maintenance robots, replacement \nhardware, and autonomous repair. It's extremely  "
+    },
+    {
+      "start": 1699.28,
+      "duration": 7.36,
+      "text": "hard to run a lunar data center entirely from \nEarth. At some point, you need local capability,  "
+    },
+    {
+      "start": 1706.64,
+      "duration": 7.52,
+      "text": "mining, possibly silicon because the Moon has \nplenty of it. And then manufacturing. A data  "
+    },
+    {
+      "start": 1714.16,
+      "duration": 6.8,
+      "text": "center won't be enough. You need economy. That's \nwhy for me the only possible reason to build a  "
+    },
+    {
+      "start": 1720.96,
+      "duration": 5.68,
+      "text": "data center on the Moon is to build the economy \non the Moon. Otherwise, every problem that's  "
+    },
+    {
+      "start": 1726.64,
+      "duration": 5.76,
+      "text": "already hard and expensive to solve on Earth \nis becoming even harder and more expensive to  "
+    },
+    {
+      "start": 1732.4,
+      "duration": 8.56,
+      "text": "solve up there. So, our space data centers \nmadness or inevitability. If we take orbit,  "
+    },
+    {
+      "start": 1740.96,
+      "duration": 7.84,
+      "text": "the physics says it's possible. Economics says not \nyet. The Moon at the moment feels a little bit out  "
+    },
+    {
+      "start": 1748.8,
+      "duration": 6.72,
+      "text": "of the orbit. Even with all the free land, \nall the sunlight, all the theoretical scale,  "
+    },
+    {
+      "start": 1755.52,
+      "duration": 8.08,
+      "text": "is any of this worth the effort? Still, there \nis something about space we can stay away from.  "
+    },
+    {
+      "start": 1763.6,
+      "duration": 5.6,
+      "text": "And I personally think we are still missing a \ncouple of breakthroughs in energy and the way  "
+    },
+    {
+      "start": 1769.2,
+      "duration": 7.2,
+      "text": "we compute before we can make such an endeavor. \nSubscribe to the channel not to miss them. Now  "
+    },
+    {
+      "start": 1776.4,
+      "duration": 6.24,
+      "text": "watch this episode on the world's largest AI \ndata center or this one where I take you inside  "
+    },
+    {
+      "start": 1782.64,
+      "duration": 6.72,
+      "text": "the secret chip factory to show you the smallest \nmicrochips to date. And I will see you there. Ciao"
+    }
+  ],
+  "full_text": "Starcloud one separation confirmed. This is \nthe first launch of a data center in space.   And here Elon and Jensen seriously discussing \nputting them on orbit. My first thought was,   are you serious? Then it got far more interesting \nbecause it's not just them. Google, Amazon,   everyone is circling the same idea. There is \nsomething about space that keeps pulling us back.   the next step beyond Earth data centers is our our \nEarth orbital data centers. and we'll be launching   with SpaceX orbital data centers at the 100 to 200 \ngigawatt per year. What if you want to go beyond   a mere terawatt per year? In order to do that, you \nhave to go to the moon. I've spent the last decade   designing microchips that live or die by physics. \nThat's why this episode is personal because this   idea sits right on the knife's edge because \nit's either pure madness or inevitable next   step. Subscribe to the channel and let me explain. \nWe are building gigawatt data centers. And these   are not just big buildings with servers. It's AI \nsupercomputers the size of cities, millions of   GPUs. And we built power plants next door just to \nkeep them alive. And the most unglamorous part is   cooling. Because these campuses don't just consume \nelectricity, they devour water. They drain rivers   just to stop silicon from cooking itself to death. \nBut what's becoming even more scarce than power   and water is time. That's why hyperscalers are in \na land grab. Speed is a mode now. But on Earth,   permits take years. Land is limited. Power grid \nis sold out. And the road map says we need 100   times more compute by 2030. If this trend \ncontinues, we don't just run out of power,   we run out of Earth. So maybe it's time to put the \nCloud in the clouds. I know it sounds ridiculous,   but space is tempting. There is no land limits \nand in theory unlimited solar power. It sounds   clean and infinite, but this idea is insane \non so many levels. That's why I can't wait to   unpack it today. We will do it in two layers. \nPlan A, put data centers in orbit. Plan B,   put data centers on the Moon. So, what would it \nactually take to build a tiny 20,000 GPU data   center and make it fly over your head? Before we \nlaunch anything, we have to be honest about what   an AI data center is. Because launching GPUs \nto space is easy. Launching a functioning AI   data center is not. On Earth, a data center is \nsurrounded by invisible infrastructure. Power   comes from somewhere else. Cooling is an entire \nscience. Fibers stitches thousands of servers into   one giant AI supercomputer. In orbit, all of that \ndisappears. So, let's run the checklist. First, to   launch a data center into orbit, you need compute. \nThat's the easy part. We already know how to build   absurdly powerful GPUs. But the moment you leave \nEarth, silicon enters a different battlefield.   Space is brutal to chips. It's constantly \nbombarding them with high energy particles. So,   we need chips that can survive this huge amount \nof radiation. You don't see these particles,   but they flip bits in memory, corrupt \ncalculations, slowly degrade transistors.   Space slowly kills your servers, one bit flip \nat a time. On Earth, the atmosphere and magnetic   field absorb most of that. In low Earth orbit, you \nstill get partial protection. So, it's survivable,   but not forgiving, which means you can't just \nthrow a rack of GPUs into orbit. You have to   shield them from all the sides carefully. We \nneed physical shielding that blocks particles   without adding too much mass. Technically, \nthis is solvable and we already have proof.   Startup Starcloud already sent NVIDIA Hopper GPU \ninto space and it's already about 100 times more   powerful than any computer previously operated \nin orbit and it's already running inference in   space. So the question is no longer can GPUs \nsurvive up there. The question is does it   make any sense economically and technically? \nBecause the moment you turn these GPUs on,   they start pulling power. And power is the least \ninsane part of that story. Because on Earth,   you have clouds, night, bad weather. In \norbit, you just get sunlight and a lot of   it. At first glance, it looks perfect. \nYou unfold solar arrays, face the sun,   collect energy, run your systems, charge batteries \nfor eclipse. repeat every orbit. At small scale,   it works beautifully until it is a data center \nbecause the moment you scale to real AI compute,   everything changes. On Earth, modern AI campuses \nalready sit in the gigawatt range. Of course,   the first orbital proposals are more modest, tens \nof megawatts. Starcloud, for example, is aiming   at roughly 40 megawatts. That's about 300 NVLink \n72 racks with about 20,000 GPUs in total. Now,   let's run the numbers. 10 square meters of solar \npanels gives you just a few kilowatts. Scale that   to 40 megawatts and the geometry explodes. You're \nlooking at something like a 350x350 m solar array.   over 100,000 square meters and roughly 400 \ntons. Just picture it. Dozens of football   fields of solar panels flying over your head at \nnearly 8 kilometers per second. That's massive,   but not impossible if delivered in pieces. And the \nupside is real. In orbit, solar outperforms ground   systems by at least 10 times. Imagine we shoot \nall of that to space and solve power. Finally,   we've got an AI data center that we won't be \nable to plug off anymore. And just as instantly,   every watt of power you generated turns into your \nnew problem, heat. That's when the dream collides   with physics. Which sounds ridiculous, right? \nBecause space is cold. And that single idea misled   more engineers than anything else because your \nGPU doesn't care about the temperature in space.   It cares whether the heat can escape silicon. \nEveryone thinks that space is cold. That's why   this problem is so dangerous. In low Earth orbit, \nyou're essentially sitting in near perfect vacuum.   There is no air, no medium to carry heat away. \nAnd the higher you go, the more absolute the   vacuum becomes. Space is cold. But vacuum is \nan insulator which actually make things much   harder to cool in space. On Earth, heat disappears \neasily. Air molecules collide with hot surfaces   and carry energy off. Water pulls heat away even \nfaster. In space, none of that exists. You cannot   dump heat into space. You can only radiate it \naway and radiation is slow. Typically, it's   hundreds of times less effective than convection \nor liquid cooling on Earth. That's why satellites   carry radiators, huge panels whose only job is to \ndump waste heat into darkness. This is where the   fantasy meets thermodynamics. Radiative cooling \nfollows this Stefan-Boltzmann Law. In plain terms,   if you want to dump megawatts of heat without \nmelting your hardware, you add surface area,   a lot of it. For a 40 megawatt orbital data \ncenter, the math lands in the range of 120,000   square meters effective area. That's about 15 to \n20 football fields of radiator wings in orbit.   This means radiators must be huge compared to the \nrelative compute load and most likely implemented   as two-sided panels. But here is the critical \npart. Radiator mass compounds the problem. It   scales with how much heat you have to reject. \nIf we are using a standard spacecraft estimates,   you're looking at roughly 400 to 800 tons of \nradiator hardware for a 40 megawatt data center.   And that's just for cooling. At the current launch \nprices, that's in the range of $2 to4 billion just   to launch the radiators. And when launch cost will \ndrop to something $500 per kilogram with Starship,   you're looking at something like $200 million to \n$400 million just to launch the cooling. So yes,   Starship helps. But even in the best case, we are \nlooking at hundreds of millions of dollars just   to launch cooling. And surprisingly, from here on, \nit's only getting worse and worse. Electronics in   orbit don't sit at one temperature. In low Earth \norbit, a spacecraft circles the planet every 90   minutes. One moment, it's in direct sunlight \nat 120°. Minutes later, it drops into shadow   at minus 170. That's a 300° temperature swing. And \nthis thermal stress accumulates over its lifespan.   every orbit all day, every day. So in space, you \nneed a different approach. That's exactly what   Starlink does. The electronics inside is wrapped \ninto multi-layer insulation. Thin reflective foils   that block most solar radiation and trap internal \nheat. Small onboard heaters kick in during eclipse   so batteries and processors don't freeze. The \nresult is a controlled internal range from 10   to 60° inside while outside space is trying \nto tear it apart. It works at satellite scale   at few hundred W. But now scale it to a megawatt \ndata center and that's a huge jump with no proven   solution. So suddenly the cold vacuum of space \nbecome the hottest engineering problem. on paper Space data centers look elegant, but the image \nchanges fast. It's not GPUs on the orbit,   it's radiators and panels in orbit. But even if \nyou solve heat, you still need to talk to Earth.   Because if the results can't get down, the compute \ndoesn't matter. It's just a very expensive space   heater. Next, we will discuss the real killer of \ndata centers in space and wrap up the economics   and see if it makes sense to build a data center \non the moon instead. But before we go there,   I want to talk to you about my favorite tech \nmagazine - IEEE Spectrum. It keeps me sharp on   what's happening across the industry, including \nsemiconductors, AI, robotics, energy, and space   tech. When I want real depth and high quality \nanalysis, IEEE Spectrum is where I go. They   consistently cover the trends that actually matter \nacross the tech stack. Running a tech company and   making content in tech means I need signal, not \nnoise. And that's exactly what I get there. I   actually enjoy reading both digital and physical \nmagazines. Digital gives you instant access,   archives, and newsletters. Great for staying \ncurrent, but the print edition is special. You   sit down with a cup of coffee and really spend \ntime with it without distractions. I love to   keep past issues on my desk and revisit them. \nThat's my steadiest source of ideas. If you   care about staying ahead in tech and engineering, \nsubscribe to IEEE Spectrum now through the link   below and you will get an exclusive 10% off \nyour subscription. If you enjoy my content,   you will most certainly love their content, \ntoo. And to me, that means a lot that they are   sponsoring this episode. Now, back to the space \ndream. And now, things will get uncomfortable   because on Earth, data centers are stitched \ntogether with fiber. Inside modern AI clusters,   links are already pushing towards 1.6 terabits per \nsecond. That's the baseline these systems expect.   constant high throughput communication between \nracks, clusters and users. So the moment you put a   supercomputer on orbit, a question arises, how do \nyou move that much data back to Earth? In theory,   you can send enormous amounts of data through \nspace using lasers. This is called free space   orbital communication. You fire extremely precise \nlaser beams between satellites and those beams   carry data at hundreds of gigabits per second. \nStarlink already use it between satellites inside   space Band can be actually incredible. We are \ntalking about hundreds of gigabits per second   because there is no atmosphere, no cables, just \nlight. The real bottleneck is getting that data   back to Earth. Because the moment this signal hits \nthe atmosphere, everything changes. Clouds scatter   light. Weather interferes. Even turbulence in the \nair distorts the beam. You can work around some   of that with phase arrays. These are flat antennas \nthat steer and focus the signal into a very tight   beam. So tight that enough of it reaches Earth. \nIt helps, but it's still nowhere near fiber   level capacity. So, here you end up with a strange \nmismatch. Massive compute in orbit and very narrow   pipelines down to Earth. And the thing is, the \nfurther from Earth you go, the worse it gets. And   we will come back to that in a moment when talking \nabout the Moon. By now, the pattern is clear.   Power is solvable. Cooling is brutal. bandwidth is \nthe weak spot. And even if you solve all of that,   eventually something will break because GPUs \nfail. Components age and in about 4 years   they are obsolete anyway. So imagine you want to \nreplace a failed unit or upgrade the cluster. How   do you go about maintenance? On Earth, we walk in, \nreplace a rack, swap a part, and move on in orbit.   That's impossible. So the whole thing is \ndesigned for survival or for replacement. Both   hurt. The moment you put a data center in space, \nphysical maintenance disappears. No technicians,   no quick fixes. Everything has to keep running \non its own. So here the philosophy changes   completely. You don't fix things in orbit. You \njust outnumber the failure. And this forces you to   launch more capacity than you actually need. Extra \nnodes sitting idle, ready to take over the second   something glitches. If one server dies, the system \nreroots around it. The fleet slowly refreshing   itself over time. Here, software becomes the \nfirst line of maintenance. Most of the things are   fixed remotely and from the outside it looks like \nnothing happened. Only when hardware truly fails,   you accept the loss and then you wait for the \nnext launch window and send up a replacement.   This is how Starlink already works. They don't \nrepair units, they replace them. New units go up   constantly. Old or failed ones de-orbit and burn \nup in the atmosphere. Right now, it's happening   at a steady cadence of two satellites a day. \nSatellites coming down, new ones going up.   Most of the debris vaporizes before it reaches \nthe ground. The problem here, it doesn't just   disappear. What's left becomes a thin layer of \nparticles high in the atmosphere. Aluminum oxides   and other remnants that can linger for years. \nScientists are still studying what that means   for ozone and climate. Well, at small satellite \nscale, this model works. At data center scale,   it's brutal. Moreover, every upgrade is tied to \na rocket and suddenly economics start to dominate   the conversation because redundancy means extra \nhardware. Extra hardware means extra launches and   remember tons of solar and radiators and all of \nthat becomes very expensive. And this is where the   romance ends and the spreadsheet begins because \nif it's not cheaper or strategically necessary,   it won't scale. Let's go back to our 40 megawatts \norbital data center. That's about 400 tons of   compute plus 400 tons of radiators plus 400 \ntons of solar. So more than 1,000 tons total   mass. At today's launch prices, about $5,000 per \nkilogram, you are looking at at least $5 billion   just to lift a system like this into orbit. And \nthat's only to get the mass of the planet. It   doesn't include solar panel costs, compute cost, \nbatteries, it doesn't include the cooling. And if   you add all of this infrastructure, the costs are \njust exploding. we coming to the kind of numbers   that make even the richest hyperscalers pause. In \nthe end, it all comes down to one simple matrix,   watts per dollar. And at the moment, I'm not \nconvinced the math here works. And I know at the   moment this idea might already look like madness \nto you. Well, at some point it might start making   sense because launch costs are falling so fast. \nCompanies like SpaceX and Stoke are pushing that   curve down. Internal launch costs for SpaceX are \nlikely far lower, at least five times, than public   pricing. That's the only reason why anyone serious \nis even talking about orbital data centers. And   it's also why Elon keeps bringing it up. But I \nfeel like we are still missing a breakthrough   or two to get there. But at the same time, the \norbit is getting really crowded. There are already   thousands of satellites up there. Put something \nthe size of a floating data center into low orbit   and congestion becomes real. If you need to scale \nit to one terawatt, you need to go to the Moon.   Well, data centers on the Moon, that's a real \nmoonshot. Why to build a data center on the Moon   at all? Because Earth has limits. power, land, \npermits, politics. The Moon has none of those.   Vast surface area. In theory, unlimited expansion. \nThat's the attraction. But guess what? The further   you go from Earth, the harder everything gets. \nAnd when you try to put a data center on the Moon,   our checklists get brutal. Let's run it. First, \ncompute. Radiation on the moon is far harsher than   in low Earth's orbit. There is no magnetic field, \nno atmosphere, nothing between your hardware and   space. Cosmic rays heat constantly. But solar \nstorms is the real nightmare. A solar storm is   a massive cloud of charged particles that can \nlast for hours, sometimes days. On the moon,   it hits directly. No protection. That means \na steady bombardment of high energy particles   slamming into silicon, flipping bits, corrupting \nmemory, triggering logic errors. A normal GPU   would not survive long, a couple of days, maybe \na week. So we need a radiation hardened chips,   but that's explodes complexity and the chip size. \nThen we need to add heavy shielding around the   hardware and typically use a specialized chip \nprocess like silicon-on-insulator. Basically,   instead of building transistors directly on \nsilicon, you isolate them on a thin insulating   layer. That separation reduces the chances that \nthe particle strike triggers a cascade of current   through the chip. It makes circuits far more \ntolerant to radiation. And yes, all of that works,   but it's expensive. Radiation hardened chips \ncan cost 10 to 100 times more than normal chips,   and they are usually slower. You don't want \nto put cutting edge 2 nanometer GPU on the   Moon. The newest nodes are the most fragile. \nTransistors are so small now that a single high   energy particle can do more than flip a bit. It \ncan knock out an entire computing core. With every   transistor shrink with smaller and smaller nodes, \nperformance goes up, resilience goes down. Also,   some suggest that you can just keep all this \nheavy protection. And of course, you could,   but then you bet that your multi-billion dollar \nlunar supercluster will survive more than a   month. Probably it won't. So you fall back \nto more mature nodes like 7 nanometer. AMD   has already some radiation hardened designs like \nSOC's and FPGAs but so far no radiation hardened   GPUs. These are reliable but not the cutting edge \nwhich means you already trading the performance   for survival. And as if it wasn't enough, the Moon \nadds one more complication dust. fine, abrasive   electrostatic dust that clings to everything. It \ncoats radiators, degrades objects, interferes with   moving parts, slowly killing hardware over time. \nAnd that's before you've even turned the system   on. Because in the end, compute isn't the hardest \nproblem. Power is. At first glance, this sounds   easy. Solar energy is abundant on the Moon. There \nis no atmosphere, no clouds, just pure sunlight.   Perfect, right? Not quite. The Moon rotates \nslowly. One Moon or day lasts about 29 Earth   days. That means roughly 14 days of continuous \nsunlight followed by 14 days of complete darkness.   During the darkness, solar output drops to zero. \nSo now you need either massive battery storage or   nuclear reactors deployed on the lunar surface. \nBoth add mass mass adds launch cost. And once   again launch cost dominates everything. Let's \nassume somehow you solved power and can survive   two week night. Now you finally have a lunar data \ncenter. And now comes the question that ruins the   mood. How do you cool it? Because on the Moon, \nheat has no place to go. No air, no wind, no   atmosphere to carry it away. But now at the Moon, \nextreme temperature swings. Surface temperatures   can swing from over 120° C in sunlight to \nbelow - 130° C at night. In shadowed craters,   it drops even lower. Your hardware isn't just \nhot. It's expanding and contracting constantly.   Just like in orbit, radiators become critical. \nThey have to be enormous, disproportionately   large compared to the compute they're cooling. I'm \nsure at this point many of you are already ready   to give up on this crazy idea. But we haven't \ncovered the worst part yet because the biggest   killer isn't the heat. It's physics. Specifically, \nthe speed of light. The Moon sits nearly 400,000   kilometers away, which means every bit of data \nhas to cross that distance. The only realistic   way to move large volumes here is through laser \noptical communication. High power infrared beams   aimed directly at optical ground stations on \nEarth. Interior, this works beautifully. Laser   links can reach gigabits level speed, which \nis enough for bulky data transfer. But light,   light is only so fast. It takes about 1.3 seconds \nto travel one way from the moon to Earth. Even   under perfect conditions, you're looking at \nroughly 2.6 seconds of round trip latency.   That severely limits the list of applications. So \nit won't work for real-time applications like AI   inference for what we use terrestrial data centers \nfor, but it might work for data storage or large   jobs where you process everything up there and \nthen send the results down afterwards. Compare it   with low Earth's orbit where latency sits around \n10 to 50 milliseconds. The Moon feels distant. So   what would make sense up there? probably storage. \nBut then you can ask an obvious question. Isn't   storage already way too expensive on Earth? And \nyet this is exactly what Lonear data holding is   experimenting with offplanet data storage. This \nis a strategy to keep the most valuable important   data of Earth. So if something goes wrong here, \nthis is a way to back us up. Lonestar planned to   build up tiny lunar data centers. They launched \na test mission in March 2025, so last year,   with 1 kilogram of compute plus SSD storage. But \nunfortunately, the landing didn't succeed. Still,   the direction is clear. The long game isn't \nstreaming or real-time compute. It's backup. If   something catastrophic happens on Earth, the data \nsurvives somewhere else, cold storage. And yes,   extremely expensive one. So, if you're not \nyet convinced that this whole idea is a little   lunatic, let's talk about the final killer, \neconomics. Getting mass to orbit is expensive.   Landing payloads on the Moon can cost 20 times \nmore per kilogram than low Earth orbit. Everything   must land softly, which is not guaranteed. So, \na small lunar data center quickly becomes a mega   expensive project. Basically, you have to solve \neverything we've discussed for orbit and then   add even more maintenance robots, replacement \nhardware, and autonomous repair. It's extremely   hard to run a lunar data center entirely from \nEarth. At some point, you need local capability,   mining, possibly silicon because the Moon has \nplenty of it. And then manufacturing. A data   center won't be enough. You need economy. That's \nwhy for me the only possible reason to build a   data center on the Moon is to build the economy \non the Moon. Otherwise, every problem that's   already hard and expensive to solve on Earth \nis becoming even harder and more expensive to   solve up there. So, our space data centers \nmadness or inevitability. If we take orbit,   the physics says it's possible. Economics says not \nyet. The Moon at the moment feels a little bit out   of the orbit. Even with all the free land, \nall the sunlight, all the theoretical scale,   is any of this worth the effort? Still, there \nis something about space we can stay away from.   And I personally think we are still missing a \ncouple of breakthroughs in energy and the way   we compute before we can make such an endeavor. \nSubscribe to the channel not to miss them. Now   watch this episode on the world's largest AI \ndata center or this one where I take you inside   the secret chip factory to show you the smallest \nmicrochips to date. And I will see you there. Ciao"
+}

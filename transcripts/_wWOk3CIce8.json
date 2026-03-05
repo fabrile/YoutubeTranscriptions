@@ -1,0 +1,696 @@
+{
+  "video_id": "_wWOk3CIce8",
+  "video_url": "https://www.youtube.com/watch?v=_wWOk3CIce8",
+  "title": "1.1.0 - Introduction | Drawing Machines 101",
+  "channel": "Dan Catt",
+  "channel_url": "https://www.youtube.com/@revdancatt",
+  "language": "en (auto-generado)",
+  "segments": [
+    {
+      "start": 1.439,
+      "duration": 5.041,
+      "text": "I really like pen plotters because we're"
+    },
+    {
+      "start": 3.84,
+      "duration": 4.64,
+      "text": "using code to control a machine that's"
+    },
+    {
+      "start": 6.48,
+      "duration": 5.44,
+      "text": "holding a pen and drawing on paper and"
+    },
+    {
+      "start": 8.48,
+      "duration": 5.52,
+      "text": "that feels and is very precise, but at"
+    },
+    {
+      "start": 11.92,
+      "duration": 3.919,
+      "text": "the same time, things don't always go to"
+    },
+    {
+      "start": 14.0,
+      "duration": 4.48,
+      "text": "plan. And that's where the interesting"
+    },
+    {
+      "start": 15.839,
+      "duration": 4.481,
+      "text": "stuff often starts to happen. Hi, I'm"
+    },
+    {
+      "start": 18.48,
+      "duration": 4.799,
+      "text": "Dan Cat and this is Drawing Machines"
+    },
+    {
+      "start": 20.32,
+      "duration": 4.48,
+      "text": "101. Quick note before we start. It's"
+    },
+    {
+      "start": 23.279,
+      "duration": 3.521,
+      "text": "autumn at the moment when I'm recording"
+    },
+    {
+      "start": 24.8,
+      "duration": 4.239,
+      "text": "this video. And there's no heating in"
+    },
+    {
+      "start": 26.8,
+      "duration": 4.08,
+      "text": "the studio at all, which means as the"
+    },
+    {
+      "start": 29.039,
+      "duration": 4.961,
+      "text": "videos go on. We'll be recording through"
+    },
+    {
+      "start": 30.88,
+      "duration": 5.199,
+      "text": "winter. And I find it important to say I"
+    },
+    {
+      "start": 34.0,
+      "duration": 3.68,
+      "text": "am not getting fatter during these"
+    },
+    {
+      "start": 36.079,
+      "duration": 3.441,
+      "text": "videos, I'm just putting more more"
+    },
+    {
+      "start": 37.68,
+      "duration": 4.08,
+      "text": "layers on underneath this hoodie here."
+    },
+    {
+      "start": 39.52,
+      "duration": 5.48,
+      "text": "So, by the end of it, I'm going to be"
+    },
+    {
+      "start": 41.76,
+      "duration": 3.24,
+      "text": "like this."
+    },
+    {
+      "start": 45.85,
+      "duration": 3.029,
+      "text": ">> [music]"
+    },
+    {
+      "start": 46.96,
+      "duration": 3.599,
+      "text": ">> Well, hey, as this is the introduction,"
+    },
+    {
+      "start": 48.879,
+      "duration": 3.441,
+      "text": "let's keep it nice and short and just"
+    },
+    {
+      "start": 50.559,
+      "duration": 3.601,
+      "text": "bash through what this video is going to"
+    },
+    {
+      "start": 52.32,
+      "duration": 3.6,
+      "text": "cover. But first things first, if you go"
+    },
+    {
+      "start": 54.16,
+      "duration": 3.68,
+      "text": "to penplotter.com, this is where all"
+    },
+    {
+      "start": 55.92,
+      "duration": 3.36,
+      "text": "these videos will live. Either this is"
+    },
+    {
+      "start": 57.84,
+      "duration": 2.96,
+      "text": "the first one and we've only just"
+    },
+    {
+      "start": 59.28,
+      "duration": 2.799,
+      "text": "started or we're halfway through or"
+    },
+    {
+      "start": 60.8,
+      "duration": 3.359,
+      "text": "they're all there. [music] But you'll"
+    },
+    {
+      "start": 62.079,
+      "duration": 3.601,
+      "text": "find all the resources, links, files,"
+    },
+    {
+      "start": 64.159,
+      "duration": 2.96,
+      "text": "everything you need will be over there."
+    },
+    {
+      "start": 65.68,
+      "duration": 3.68,
+      "text": "And that will show you what we're going"
+    },
+    {
+      "start": 67.119,
+      "duration": 4.561,
+      "text": "to be covering as well. The second thing"
+    },
+    {
+      "start": 69.36,
+      "duration": 4.16,
+      "text": "I want to say is this is for two types"
+    },
+    {
+      "start": 71.68,
+      "duration": 3.439,
+      "text": "of people. The first type of people are"
+    },
+    {
+      "start": 73.52,
+      "duration": 3.68,
+      "text": "people who already code. Maybe you"
+    },
+    {
+      "start": 75.119,
+      "duration": 3.201,
+      "text": "already do creative coding. Maybe you're"
+    },
+    {
+      "start": 77.2,
+      "duration": 3.36,
+      "text": "an engineer and you're [music] trying to"
+    },
+    {
+      "start": 78.32,
+      "duration": 4.21,
+      "text": "figure out how to talk to these machines"
+    },
+    {
+      "start": 80.56,
+      "duration": 3.52,
+      "text": "cuz it's kind of cool and it is. And"
+    },
+    {
+      "start": 82.53,
+      "duration": 2.99,
+      "text": "[music] we'll go through all of that."
+    },
+    {
+      "start": 84.08,
+      "duration": 3.28,
+      "text": "The second type of person is someone"
+    },
+    {
+      "start": 85.52,
+      "duration": 4.08,
+      "text": "who's never coded before and we'll talk"
+    },
+    {
+      "start": 87.36,
+      "duration": 4.48,
+      "text": "more about that in just a moment. So,"
+    },
+    {
+      "start": 89.6,
+      "duration": 3.76,
+      "text": "first what we're going to do is we're"
+    },
+    {
+      "start": 91.84,
+      "duration": 4.319,
+      "text": "going to talk about these [music]"
+    },
+    {
+      "start": 93.36,
+      "duration": 4.24,
+      "text": "drawing machines. So, here I have an old"
+    },
+    {
+      "start": 96.159,
+      "duration": 3.681,
+      "text": "Axidraw, which is one of the first"
+    },
+    {
+      "start": 97.6,
+      "duration": 4.581,
+      "text": "machines that I had. Here is a much"
+    },
+    {
+      "start": 99.84,
+      "duration": 4.319,
+      "text": "bigger machine. This is the art frame."
+    },
+    {
+      "start": 102.181,
+      "duration": 4.298,
+      "text": "[music] And on here we've got the iDraw"
+    },
+    {
+      "start": 104.159,
+      "duration": 5.28,
+      "text": "Unitech. And then we've got a teeny tiny"
+    },
+    {
+      "start": 106.479,
+      "duration": 4.801,
+      "text": "A5. No, this is an A6 plotter. [music]"
+    },
+    {
+      "start": 109.439,
+      "duration": 3.04,
+      "text": "And then we also have the new Next Draw"
+    },
+    {
+      "start": 111.28,
+      "duration": 3.119,
+      "text": "over here. So these are the machines"
+    },
+    {
+      "start": 112.479,
+      "duration": 4.0,
+      "text": "we're going to be using. And then we're"
+    },
+    {
+      "start": 114.399,
+      "duration": 5.121,
+      "text": "going to be talking about pens. [music]"
+    },
+    {
+      "start": 116.479,
+      "duration": 6.0,
+      "text": "More pens. More pens. Fountain pens. So"
+    },
+    {
+      "start": 119.52,
+      "duration": 5.919,
+      "text": "much ink. And then paper as well. Big"
+    },
+    {
+      "start": 122.479,
+      "duration": 5.201,
+      "text": "paper, small paper, notepads, weird"
+    },
+    {
+      "start": 125.439,
+      "duration": 3.841,
+      "text": "paper, all sorts of things that you can"
+    },
+    {
+      "start": 127.68,
+      "duration": 4.4,
+      "text": "plot on as well. So we're going to cover"
+    },
+    {
+      "start": 129.28,
+      "duration": 4.56,
+      "text": "all of that. And then if you already"
+    },
+    {
+      "start": 132.08,
+      "duration": 3.6,
+      "text": "know how to code, that will probably be"
+    },
+    {
+      "start": 133.84,
+      "duration": 3.6,
+      "text": "enough to get you going. Drawing"
+    },
+    {
+      "start": 135.68,
+      "duration": 4.32,
+      "text": "machines, how to talk to them, pens,"
+    },
+    {
+      "start": 137.44,
+      "duration": 4.48,
+      "text": "paper, and some knowledge that I have"
+    },
+    {
+      "start": 140.0,
+      "duration": 3.28,
+      "text": "for you. However, if you're interested"
+    },
+    {
+      "start": 141.92,
+      "duration": 4.801,
+      "text": "in getting started right from scratch"
+    },
+    {
+      "start": 143.28,
+      "duration": 5.2,
+      "text": "and know nothing about coding,"
+    },
+    {
+      "start": 146.721,
+      "duration": 4.559,
+      "text": "[music]"
+    },
+    {
+      "start": 148.48,
+      "duration": 5.119,
+      "text": "I am writing code. Writing code is very"
+    },
+    {
+      "start": 151.28,
+      "duration": 4.56,
+      "text": "easy and straightforward. But actually,"
+    },
+    {
+      "start": 153.599,
+      "duration": 4.0,
+      "text": "in all seriousness, it isn't that hard."
+    },
+    {
+      "start": 155.84,
+      "duration": 2.8,
+      "text": "So, what we're going to be doing after"
+    },
+    {
+      "start": 157.599,
+      "duration": 2.72,
+      "text": "the introduction to the pen [music]"
+    },
+    {
+      "start": 158.64,
+      "duration": 3.04,
+      "text": "plotter is then move into the coding"
+    },
+    {
+      "start": 160.319,
+      "duration": 3.681,
+      "text": "part of the whole thing. And we're going"
+    },
+    {
+      "start": 161.68,
+      "duration": 5.12,
+      "text": "to start off real basic and then work"
+    },
+    {
+      "start": 164.0,
+      "duration": 4.48,
+      "text": "our way up. I think a lot of creative"
+    },
+    {
+      "start": 166.8,
+      "duration": 3.92,
+      "text": "coding courses out there, which are all"
+    },
+    {
+      "start": 168.48,
+      "duration": 3.759,
+      "text": "fantastic, start with this is what"
+    },
+    {
+      "start": 170.72,
+      "duration": 4.32,
+      "text": "programming and coding is and this is"
+    },
+    {
+      "start": 172.239,
+      "duration": 4.321,
+      "text": "how we make art with it. I'm an artist"
+    },
+    {
+      "start": 175.04,
+      "duration": 3.04,
+      "text": "and you're probably an artist. We're"
+    },
+    {
+      "start": 176.56,
+      "duration": 3.36,
+      "text": "going to come from an artist point of"
+    },
+    {
+      "start": 178.08,
+      "duration": 3.519,
+      "text": "view where we're going to go what are we"
+    },
+    {
+      "start": 179.92,
+      "duration": 3.599,
+      "text": "trying to do? What's the art we're going"
+    },
+    {
+      "start": 181.599,
+      "duration": 4.961,
+      "text": "to try to make? and then how do I use"
+    },
+    {
+      "start": 183.519,
+      "duration": 4.561,
+      "text": "code to make that art? In a later video,"
+    },
+    {
+      "start": 186.56,
+      "duration": 3.039,
+      "text": "we'll talk about all the setup you need"
+    },
+    {
+      "start": 188.08,
+      "duration": 2.799,
+      "text": "for that. But just so you know, it"
+    },
+    {
+      "start": 189.599,
+      "duration": 2.321,
+      "text": "doesn't matter what coding language"
+    },
+    {
+      "start": 190.879,
+      "duration": 3.041,
+      "text": "you're going to use. [music] It can be"
+    },
+    {
+      "start": 191.92,
+      "duration": 3.84,
+      "text": "Python or NodeJS or JavaScript. That's"
+    },
+    {
+      "start": 193.92,
+      "duration": 3.2,
+      "text": "the one that we're going to do. Um,"
+    },
+    {
+      "start": 195.76,
+      "duration": 3.119,
+      "text": "processing. You can use all of them."
+    },
+    {
+      "start": 197.12,
+      "duration": 3.36,
+      "text": "You'll see when we start that it doesn't"
+    },
+    {
+      "start": 198.879,
+      "duration": 5.601,
+      "text": "actually matter what [music] language."
+    },
+    {
+      "start": 200.48,
+      "duration": 5.679,
+      "text": "It's all fine. Let's go over there. Just"
+    },
+    {
+      "start": 204.48,
+      "duration": 2.8,
+      "text": "one more thing before we move on. You"
+    },
+    {
+      "start": 206.159,
+      "duration": 2.641,
+      "text": "don't even need to have a drawing"
+    },
+    {
+      "start": 207.28,
+      "duration": 2.879,
+      "text": "machine. So, here we have a printer and"
+    },
+    {
+      "start": 208.8,
+      "duration": 3.28,
+      "text": "we're printing out one of the designs"
+    },
+    {
+      "start": 210.159,
+      "duration": 3.761,
+      "text": "that we're going to be doing."
+    },
+    {
+      "start": 212.08,
+      "duration": 3.76,
+      "text": "And as you can see, here's the pen"
+    },
+    {
+      "start": 213.92,
+      "duration": 3.599,
+      "text": "plotted version. Here's the printed"
+    },
+    {
+      "start": 215.84,
+      "duration": 3.36,
+      "text": "version. So, if you're on the fence"
+    },
+    {
+      "start": 217.519,
+      "duration": 4.481,
+      "text": "about getting one of these drawing"
+    },
+    {
+      "start": 219.2,
+      "duration": 4.48,
+      "text": "machines, you can still follow along,"
+    },
+    {
+      "start": 222.0,
+      "duration": 3.92,
+      "text": "print the things out, decide if you like"
+    },
+    {
+      "start": 223.68,
+      "duration": 4.8,
+      "text": "it or not, and then work out what to do"
+    },
+    {
+      "start": 225.92,
+      "duration": 4.8,
+      "text": "next. All right, I think that's right."
+    },
+    {
+      "start": 228.48,
+      "duration": 4.8,
+      "text": "So, once again, I am Daniel Cat. I'm"
+    },
+    {
+      "start": 230.72,
+      "duration": 4.72,
+      "text": "based here in my art studio in Shrewsby"
+    },
+    {
+      "start": 233.28,
+      "duration": 3.92,
+      "text": "in the UK. And this is a a proper"
+    },
+    {
+      "start": 235.44,
+      "duration": 3.519,
+      "text": "working art studio. This isn't like a"
+    },
+    {
+      "start": 237.2,
+      "duration": 3.759,
+      "text": "YouTube studio or something like that."
+    },
+    {
+      "start": 238.959,
+      "duration": 4.0,
+      "text": "We have artists up above and there are"
+    },
+    {
+      "start": 240.959,
+      "duration": 3.84,
+      "text": "artists down below. So, if you hear"
+    },
+    {
+      "start": 242.959,
+      "duration": 4.241,
+      "text": "background noise going on, banging stuff"
+    },
+    {
+      "start": 244.799,
+      "duration": 4.72,
+      "text": "like that, I can only apologize. Um,"
+    },
+    {
+      "start": 247.2,
+      "duration": 3.759,
+      "text": "this place is impossible to soundproof."
+    },
+    {
+      "start": 249.519,
+      "duration": 3.92,
+      "text": "So, you'll have to forgive me on that"
+    },
+    {
+      "start": 250.959,
+      "duration": 4.161,
+      "text": "front. I'm in here nearly every day"
+    },
+    {
+      "start": 253.439,
+      "duration": 3.281,
+      "text": "working on all these machines. All these"
+    },
+    {
+      "start": 255.12,
+      "duration": 3.607,
+      "text": "joy machines are generally constantly"
+    },
+    {
+      "start": 256.72,
+      "duration": 3.359,
+      "text": "going. And over the next few months, I'm"
+    },
+    {
+      "start": 258.727,
+      "duration": 4.873,
+      "text": "[music] going to be making this whole"
+    },
+    {
+      "start": 260.079,
+      "duration": 5.68,
+      "text": "series of not tutorial videos, just how"
+    },
+    {
+      "start": 263.6,
+      "duration": 3.599,
+      "text": "to do this stuff, cuz I really love"
+    },
+    {
+      "start": 265.759,
+      "duration": 3.601,
+      "text": "making this stuff work. [music]"
+    },
+    {
+      "start": 267.199,
+      "duration": 4.081,
+      "text": "Anyway, let's get on to the next video,"
+    },
+    {
+      "start": 269.36,
+      "duration": 4.8,
+      "text": "which is what is a drawing machine? That"
+    },
+    {
+      "start": 271.28,
+      "duration": 5.04,
+      "text": "will probably be over here somewhere or"
+    },
+    {
+      "start": 274.16,
+      "duration": 6.599,
+      "text": "maybe over here. It depends which side I"
+    },
+    {
+      "start": 276.32,
+      "duration": 4.439,
+      "text": "put it. Okay, let's get on"
+    }
+  ],
+  "full_text": "I really like pen plotters because we're using code to control a machine that's holding a pen and drawing on paper and that feels and is very precise, but at the same time, things don't always go to plan. And that's where the interesting stuff often starts to happen. Hi, I'm Dan Cat and this is Drawing Machines 101. Quick note before we start. It's autumn at the moment when I'm recording this video. And there's no heating in the studio at all, which means as the videos go on. We'll be recording through winter. And I find it important to say I am not getting fatter during these videos, I'm just putting more more layers on underneath this hoodie here. So, by the end of it, I'm going to be like this. >> [music] >> Well, hey, as this is the introduction, let's keep it nice and short and just bash through what this video is going to cover. But first things first, if you go to penplotter.com, this is where all these videos will live. Either this is the first one and we've only just started or we're halfway through or they're all there. [music] But you'll find all the resources, links, files, everything you need will be over there. And that will show you what we're going to be covering as well. The second thing I want to say is this is for two types of people. The first type of people are people who already code. Maybe you already do creative coding. Maybe you're an engineer and you're [music] trying to figure out how to talk to these machines cuz it's kind of cool and it is. And [music] we'll go through all of that. The second type of person is someone who's never coded before and we'll talk more about that in just a moment. So, first what we're going to do is we're going to talk about these [music] drawing machines. So, here I have an old Axidraw, which is one of the first machines that I had. Here is a much bigger machine. This is the art frame. [music] And on here we've got the iDraw Unitech. And then we've got a teeny tiny A5. No, this is an A6 plotter. [music] And then we also have the new Next Draw over here. So these are the machines we're going to be using. And then we're going to be talking about pens. [music] More pens. More pens. Fountain pens. So much ink. And then paper as well. Big paper, small paper, notepads, weird paper, all sorts of things that you can plot on as well. So we're going to cover all of that. And then if you already know how to code, that will probably be enough to get you going. Drawing machines, how to talk to them, pens, paper, and some knowledge that I have for you. However, if you're interested in getting started right from scratch and know nothing about coding, [music] I am writing code. Writing code is very easy and straightforward. But actually, in all seriousness, it isn't that hard. So, what we're going to be doing after the introduction to the pen [music] plotter is then move into the coding part of the whole thing. And we're going to start off real basic and then work our way up. I think a lot of creative coding courses out there, which are all fantastic, start with this is what programming and coding is and this is how we make art with it. I'm an artist and you're probably an artist. We're going to come from an artist point of view where we're going to go what are we trying to do? What's the art we're going to try to make? and then how do I use code to make that art? In a later video, we'll talk about all the setup you need for that. But just so you know, it doesn't matter what coding language you're going to use. [music] It can be Python or NodeJS or JavaScript. That's the one that we're going to do. Um, processing. You can use all of them. You'll see when we start that it doesn't actually matter what [music] language. It's all fine. Let's go over there. Just one more thing before we move on. You don't even need to have a drawing machine. So, here we have a printer and we're printing out one of the designs that we're going to be doing. And as you can see, here's the pen plotted version. Here's the printed version. So, if you're on the fence about getting one of these drawing machines, you can still follow along, print the things out, decide if you like it or not, and then work out what to do next. All right, I think that's right. So, once again, I am Daniel Cat. I'm based here in my art studio in Shrewsby in the UK. And this is a a proper working art studio. This isn't like a YouTube studio or something like that. We have artists up above and there are artists down below. So, if you hear background noise going on, banging stuff like that, I can only apologize. Um, this place is impossible to soundproof. So, you'll have to forgive me on that front. I'm in here nearly every day working on all these machines. All these joy machines are generally constantly going. And over the next few months, I'm [music] going to be making this whole series of not tutorial videos, just how to do this stuff, cuz I really love making this stuff work. [music] Anyway, let's get on to the next video, which is what is a drawing machine? That will probably be over here somewhere or maybe over here. It depends which side I put it. Okay, let's get on"
+}
