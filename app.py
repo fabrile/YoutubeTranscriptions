@@ -163,7 +163,9 @@ def list_saved():
 
 
 if __name__ == "__main__":
+    import os as _os
+    port = int(_os.environ.get("PORT", 5000))
     print("🎬 YouTube Transcript Capturer")
     print(f"📁 Transcripts guardadas en: {TRANSCRIPTS_DIR}")
-    print("🌐 Abre http://127.0.0.1:5000 en tu navegador")
-    app.run(debug=True, port=5000)
+    print(f"🌐 Abre http://127.0.0.1:{port} en tu navegador")
+    app.run(debug=False, host="0.0.0.0", port=port)
